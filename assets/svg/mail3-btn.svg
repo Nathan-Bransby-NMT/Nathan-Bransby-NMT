@@ -1,6 +1,10 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="100%" viewBox="0 0 1000 500" enable-background="new 0 0 1000 500" xml:space="preserve">
-<path fill="#000000" opacity="1.000000" stroke="none" 
+	 width="90%" height="auto" viewBox="100 100 700 400" enable-background="new 0 0 1000 500" xml:space="preserve">
+<style>
+	#Layer_1 { width:90%; }
+	#Layer_1:hover { width: 100%; }
+</style>
+<path fill="#000000" opacity="0.000000" stroke="none" 
 	d="
 M948.000000,501.000000 
 	C632.052551,501.000000 316.605072,501.000000 1.078813,501.000000 
