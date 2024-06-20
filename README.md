@@ -95,7 +95,12 @@
       <td style="border: 1px solid #000; text-align: center; padding: 10px;" 
           colspan="4" rowspan="2">
         <table>
-          <tr><td></td></tr>
+          <tr>
+			<td>
+			<!--Main content container-->
+			[![Nathan-Bransby-NMT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathan-Bransby-NMT)](https://github.com/Nathan-Bransby-NMT/github-readme-stats)
+			</td>
+		  </tr>
         </table>  
       </td>
     </tr>
