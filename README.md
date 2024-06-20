@@ -98,7 +98,6 @@
           <tr>
 			<td>
 			<!--Main content container-->
-			[![Nathan-Bransby-NMT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathan-Bransby-NMT&theme=ambient_gradient&show_icons=true)](https://github.com/Nathan-Bransby-NMT/github-readme-stats)
 			</td>
 		  </tr>
         </table>  
@@ -107,3 +106,5 @@
   </table>
 </div>
 </p>
+
+[![Nathan-Bransby-NMT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathan-Bransby-NMT&theme=neon&show_icons=true)](https://github.com/Nathan-Bransby-NMT/github-readme-stats)
