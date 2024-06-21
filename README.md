@@ -96,10 +96,13 @@
           colspan="4" rowspan="2">
         <table>
           <tr>
-			<td>
-			<!--Main content container-->
-			</td>
-		  </tr>
+	    <td width="100%" height="100%">
+	      <!--Main content container-->
+	      <div width="100%" height="100%">
+		<p></p>
+	      </div>
+	    </td>
+	  </tr>
         </table>  
       </td>
     </tr>
