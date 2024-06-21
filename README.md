@@ -83,7 +83,7 @@
                 <details>
                   <summary><img src="./assets/svg/burger_menu.svg"></img></summary>
                   <table>
-                    <tr><td>{{[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Nathan-Bransby-NMT/bbfce31e0217a3689c8d961a356cb10d/)}}</td></tr>
+                    <tr><td>[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Nathan-Bransby-NMT/bbfce31e0217a3689c8d961a356cb10d/)</td></tr>
                   </table>
                   <table>
                     <tr><td>Item #2</td></tr>
