@@ -83,9 +83,20 @@
                 <details>
                   <summary><img src="./assets/svg/burger_menu.svg"></img></summary>
                   <table>
-                    <tr><td><div>
-			<a href="https://gist.github.com/Nathan-Bransby-NMT/Dual-Diploma-2024"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Bransby-NMT&repo=Dual-Diploma-2024"></img></a>
-      		    </div></td></tr>
+		    <tr>
+		      <th><h4>Active Studies</h4></th>
+		    </tr>
+                    <tr>
+			<td>
+			  <div>
+			    <a href="https://gist.github.com/Nathan-Bransby-NMT/Dual-Diploma-2024">
+			      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Bransby-NMT&repo=Dual-Diploma-2024" 
+			           alt="North Metropolian - Dual Diploma 2024 (Back-End Web Development and Advanced Programming)">
+			      </img>
+			    </a>
+      		        </div>
+		      </td>
+		    </tr>
                   </table>
                   <table>
                     <tr><td>Item #2</td></tr>
