@@ -75,53 +75,94 @@
     </tr>
     <tr>
       <td style="border: 1px solid #000; text-align: center; padding: 10px;" 
-          colspan="3">
+          colspan="7">
           <table>
             <tr>
               <td>
-		<h3>Navigate To:</h3>
+		<div width=790 min-width=790 height=200 min-height=200>
+		  <a hight=200 min-width=280 width=280 max-width=280 align="center" href=""><h3>Filter Stats:</h3></a>
+		  <a  min-width=504 width=504 hight=200 min-width=280 align="center" href="https://github.com/Nathan-Bransby-NMT/github-readme-stats">
+	            <img src="https://github-readme-stats.vercel.app/api?username=Nathan-Bransby-NMT&theme=gotham&show_icons=true"></img>
+		  </a>
+		</div>
                 <details>
-                  <summary><img src="./assets/svg/burger_menu.svg"></img></summary>
+                  <summary><h3><samp>[Expand Menu]</samp></h3></summary><!--<a height=200 align="center" href=""><img src="./assets/svg/burger_menu.svg"></img></a></summary>-->
                   <table>
 		    <tr>
-		      <th><h4>Active Studies</h4></th>
-		    </tr>
-                    <tr>
-			<td>
-			  <div>
-			    <a href="https://gist.github.com/Nathan-Bransby-NMT/Dual-Diploma-2024">
-			      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Bransby-NMT&repo=Dual-Diploma-2024" 
-			           alt="North Metropolian - Dual Diploma 2024 (Back-End Web Development and Advanced Programming)">
-			      </img>
-			    </a>
-      		        </div>
+		      <td>
+			<details>
+			  <summary><h2>Education</h2></summary>
+			  <table>
+			    <tr>
+			      <th><h4><samp>North Metropolitan TAFE - 2024 [Semester </small> 1 - 2]<br>ICT50220 Diploma of Advanced Programming (Specialism) & Diploma of Back-End Web Development.</samp></h4></th>
+			    </tr>
+                    	    <tr>
+			      <td>
+				<div >
+				  <a href="https://gist.github.com/Nathan-Bransby-NMT/Dual-Diploma-2024">
+				    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Bransby-NMT&repo=Dual-Diploma-2024&theme=gotham" 
+				         alt="North Metropolian - Dual Diploma 2024 (Back-End Web Development and Advanced Programming)">
+				    </img>
+				  </a>
+				  <a href="https://gist.github.com/Nathan-Bransby-NMT/Dual-Diploma-2024">
+				    <img height=200 align="center" 
+					 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Bransby-NMT&layout=compact&repo=Dual-Diploma-2024&langs_count=10&theme=gotham"
+				         alt="North Metropolian - Dual Diploma 2024 (Back-End Web Development and Advanced Programming)">
+				    </img>
+				  </a>
+	      		        </div>
+		      	      </td>
+		            </tr>
+			  </table>
+			</details>
 		      </td>
 		    </tr>
                   </table>
                   <table>
-                    <tr><td>Item #2</td></tr>
+                    <tr>
+		      <td>
+		      	<details>
+			  <summary><h2>Projects</h2>
+			  </summary>
+			  <table>
+			    <tr>
+			      <th width=100% height=200 align="center">
+				<h4><samp>OcrRoo - [2024 - Present]</samp></h4>
+				<p><samp>OcrRoo is an AI Powered OCR Code Recognition & Extraction Tool that is designed to assist visually impaired<br>
+				   developers in interpreting video content such as Youtube programming tutorials.<br>
+				   The user uploads a video to the program, where our AI text extraction model analyses over the video<br>
+				   , identifying extractable 
+				   code.</samp>
+				</p>
+			      </th>
+			    </tr>
+			    <tr>
+			      <td>
+			        <div>
+				  <a href="https://gist.github.com/Nathan-Bransby-NMT/dip-programming-prj-advanced-gui-evolve">
+				    <img height="auto" width=504 max-width=504 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Bransby-NMT&repo=dip-programming-prj-advanced-gui-evolve&theme=gotham"
+				         alt="OcrRoo - Repository">
+				    </img>
+				  </a>
+				  <a href="https://gist.github.com/Nathan-Bransby-NMT/dip-programming-prj-advanced-gui-evolve">
+				    <img height=200 max-width=280 width=280 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Bransby-NMT&layout=compact&repo=dip-programming-prj-advanced-gui-evolve&exclude_repo=Dual-Diploma-2024,MFGJ-2023-TopDown-Adventure,DuckDrivenTesting&langs_count=10&theme=gotham" 
+				         alt="North Metropolian - OcrRoo Stats">
+				    </img>
+				  </a>
+	      		        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</details>
+		      </td>
+		    </tr>
                   </table>
                 </details>
               </td>
             </tr>
           </table>
       </td>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;" 
-          colspan="4" rowspan="2">
-        <table>
-          <tr>
-	    <td width="100%" height="100%">
-	      <!--Main content container-->
-	      <div width="100%" height="100%">
-		<p></p>
-	      </div>
-	    </td>
-	  </tr>
-        </table>  
-      </td>
     </tr>
   </table>
 </div>
 </p>
-
-[![Nathan-Bransby-NMT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathan-Bransby-NMT&theme=neon&show_icons=true)](https://github.com/Nathan-Bransby-NMT/github-readme-stats)
