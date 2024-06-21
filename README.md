@@ -80,7 +80,7 @@
             <tr>
               <td>
                 <details>
-                  <summary><img src="./assets/svg/burger_menu.svg"></img><h3>Jump To:</h3></summary>
+                  <summary><img src="./assets/svg/burger_menu.svg">JumpTo</img></summary>
                   <table>
                     <tr><td>Item #1</td></tr>
                   </table>
