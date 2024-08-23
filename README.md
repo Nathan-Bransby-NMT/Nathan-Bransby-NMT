@@ -85,7 +85,7 @@
 	            <img src="https://github-readme-stats.vercel.app/api/?username=Nathan-Bransby-NMT&theme=gotham&show_icons=true&count_private=true"></img>
 		  </a>
 		  <a min-width=504 width=504 hight=200 min-width=280 align="center" href="https://github.com/Nathan-Bransby-NMT">
-		    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Bransby-NMT&theme=dark"></img>
+		    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Bransby-NMT&theme=gotham"></img>
 		  </a>
 		</div>
                 <details>
