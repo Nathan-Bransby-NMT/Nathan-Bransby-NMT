@@ -3,11 +3,11 @@
 <p align="center">
 <div style="margin: auto; width: 80%;">
   <table style="border: 1px solid #000; border-collapse: collapse; width: 100%;">
-    <tr>
+    <!--tr>
       <th style="border: 3px solid #000; text-align: center; padding: 80px 0;" colspan="7">
         <h2>Welcome to my GitHub Profile!!!</h2>
       </th>
-    </tr>
+  </tr-->
     <tr>
       <!-- Profile Image -->
       <td style="border: 1px solid #000; text-align: center; padding: 5px;" colspan="3" rowspan="7">
