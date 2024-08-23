@@ -1,4 +1,4 @@
-<img width=504 hight=200 min-width="200%" align="center" src="./assets/svg/readme-banner.svg"></img>
+<img width=1000px hight=200 min-width="200%" align="center" src="./assets/svg/readme-banner.svg"></img>
 <br>
 <p align="center">
 <div style="margin: auto; width: 80%;">
