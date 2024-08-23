@@ -15,9 +15,9 @@
         }
 
         .container {
-          background: linear-gradient(-75deg, #ffbd00, #faff00, #000000, #000000, #dd4422, #ff0000);
+          background: linear-gradient(-45deg, #00ffca, #ff0066);
           background-size: 400% 400%;
-          animation: gradient 15s ease infinite;
+          animation: gradient 20s ease infinite;
 
           width: 80%;
           height: 120px;
@@ -31,7 +31,7 @@
         }
 
         .shell {
-          background-color: #3e3e3e;
+          background-color: #000000;
           width: 100%;
           height: 100%;
 
@@ -51,7 +51,7 @@
       </style>
       <div class="shell">
         <div class="container" style="text-align: center">
-          <h1 style="color: #181457">Nathan-Bransby-NMT</h1>
+          <h1 style="color: #ffffff">Nathan-Bransby-NMT</h1>
         </div>
       </div>
     </div>
