@@ -15,7 +15,7 @@
         }
 
         .container {
-          background: linear-gradient(-45deg, #ffbd00, #120e4a, #120e4a #dd4422);
+          background: linear-gradient(-45deg, #ffbd00, #120e4a, #000000, #120e4a, #dd4422);
           background-size: 400% 400%;
           animation: gradient 10s ease infinite;
 
@@ -42,7 +42,7 @@
       </style>
 
       <div class="container" style="text-align: center">
-        <h1 style="">Nathan-Bransby-NMT</h1>
+        <h1>Nathan-Bransby-NMT</h1>
       </div>
     </div>
   </foreignObject>
