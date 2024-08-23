@@ -84,6 +84,9 @@
 		  <a  min-width=504 width=504 hight=200 min-width=280 align="center" href="https://github.com/Nathan-Bransby-NMT/github-readme-stats">
 	            <img src="https://github-readme-stats.vercel.app/api/?username=Nathan-Bransby-NMT&theme=gotham&show_icons=true&count_private=true"></img>
 		  </a>
+		  <a min-width=504 width=504 hight=200 min-width=280 align="center" href="https://github.com/Nathan-Bransby-NMT">
+		    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Bransby-NMT&theme=dark"></img>
+		  </a>
 		</div>
                 <details>
                   <summary><h3><samp>[Expand Menu]</samp></h3></summary><!--<a height=200 align="center" href=""><img src="./assets/svg/burger_menu.svg"></img></a></summary>-->
