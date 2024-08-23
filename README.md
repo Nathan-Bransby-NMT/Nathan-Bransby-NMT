@@ -1,5 +1,5 @@
-# Nathan-Bransby-NMT
-
+<img width=504 hight=200 min-width="100%" align="center" src="./assets/svg/readme-banner.svg"></img>
+<br>
 <p align="center">
 <div style="margin: auto; width: 80%;">
   <table style="border: 1px solid #000; border-collapse: collapse; width: 100%;">
@@ -82,10 +82,10 @@
 		<div width=790 min-width=790 height=200 min-height=200>
 		  <a hight=200 min-width=280 width=280 max-width=280 align="center" href=""><h3>Filter Stats:</h3></a>
 		  <a  min-width=504 width=504 hight=200 min-width=280 align="center" href="https://github.com/Nathan-Bransby-NMT/github-readme-stats">
-	            <img src="https://github-readme-stats.vercel.app/api/?username=Nathan-Bransby-NMT&theme=codeSTACKr&show_icons=true&count_private=true"></img>
+	            <img src="https://github-readme-stats.vercel.app/api/?username=Nathan-Bransby-NMT&theme=neon&show_icons=true&count_private=true"></img>
 		  </a>
 		  <a min-width=504 width=504 hight=200 min-width=280 align="center" href="https://github.com/Nathan-Bransby-NMT">
-		    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Bransby-NMT&theme=codeSTACKr"></img>
+		    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Bransby-NMT&theme=neon"></img>
 		  </a>
 		</div>
                 <details>
