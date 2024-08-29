@@ -76,8 +76,10 @@
     <tr>
       <td style="border: 1px solid #000; text-align: center; padding: 10px;" 
           colspan="7">
-	  <img src="./assets/svg/break.svg" alt="Decoraded page break."></img>
           <table>
+	    <tr>
+	      <td><img src="./assets/svg/break.svg" alt="Decoraded page break."></img></td>
+	    </tr>
             <tr>
               <td>
 		<div width=790 min-width=790 height=200 min-height=200>
