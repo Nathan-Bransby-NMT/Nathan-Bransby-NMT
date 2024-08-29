@@ -73,13 +73,17 @@
       <td style="border: 1px solid #000; text-align: center; padding: 10px;">1x1 Link Icon</td>
       <td style="border: 1px solid #000; text-align: center; padding: 10px;">1x1 Link Icon</td>
     </tr>
+  </table>
+</div>
+</p>
+<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center";></img>
+<p align="center">
+<div style="margin: auto; width: 80%;">
+  <table style="border: 1px solid #000; border-collapse: collapse; width: 100%;">
     <tr>
       <td style="border: 1px solid #000; text-align: center; padding: 10px;" 
           colspan="7">
           <table>
-	    <tr>
-	      <td><img src="./assets/svg/break.svg" alt="Decorated page break." min-width=790px style="width: 100%; height: 25px; object-fit: contain;></img></td>
-	    </tr>
             <tr>
               <td>
 		<div width=790 min-width=790 height=200 min-height=200>
