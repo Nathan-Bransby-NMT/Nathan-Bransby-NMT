@@ -2,7 +2,7 @@
 <br>
 <p align="center">
 <div style="margin: auto; width: 80%;">
-  <table style="border: 1px solid #000; border-collapse: collapse; width: 100%;">
+  <table style="border: 1px solid #000; border-collapse: collapse; width: 200%;">
     <!--tr>
       <th style="border: 3px solid #000; text-align: center; padding: 80px 0;" colspan="7">
         <h2>Welcome to my GitHub Profile!!!</h2>
