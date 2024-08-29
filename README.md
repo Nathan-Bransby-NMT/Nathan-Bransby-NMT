@@ -73,8 +73,6 @@
       <td style="border: 1px solid #000; text-align: center; padding: 10px;">1x1 Link Icon</td>
       <td style="border: 1px solid #000; text-align: center; padding: 10px;">1x1 Link Icon</td>
     </tr>
-  </table>
-  <table>
     <tr>
       <td style="border: 1px solid #000; text-align: center; padding: 10px;" 
           colspan="7">
