@@ -11,10 +11,7 @@
     <tr>
       <!-- Profile Image -->
       <td style="border: 1px solid #000; text-align: center; padding: 5px;" colspan="3" rowspan="7">
-        <table>
-          <tr><td>
             <img alt="Profile hero image." src="./assets/svg/141193650.svg" style="width: 100%; height: 200px; object-fit: fill;">
-          </td></tr></table>
       </td>
     </tr>
     <!-- Bio/Summary -->
