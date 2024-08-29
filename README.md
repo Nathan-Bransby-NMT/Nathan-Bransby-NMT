@@ -78,7 +78,7 @@
           colspan="7">
           <table>
 	    <tr>
-	      <td><img src="./assets/svg/break.svg" alt="Decorated page break." min-width=790px style="width: 100%; height: 200px; object-fit: cover;></img></td>
+	      <td><img src="./assets/svg/break.svg" alt="Decorated page break." min-width=790px style="width: 100%; height: 25px; object-fit: cover;></img></td>
 	    </tr>
             <tr>
               <td>
