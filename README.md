@@ -16,8 +16,7 @@
     </tr>
     <!-- Bio/Summary -->
     <tr>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;" colspan="1" rowspan="2">icon here</td>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;" colspan="3" rowspan="2">I would write something about myself here.</td>
+      <td style="border: 1px solid #000; text-align: center; padding: 10px;" colspan="4 rowspan="2">I would write something about myself here.</td>
     </tr>
     <tr></tr>
     <tr>
