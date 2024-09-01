@@ -85,7 +85,7 @@
 		<div width=790 min-width=790 height=200 min-height=200>
 		  <a hight=200 min-width=280 width=280 max-width=280 align="center" href=""><h3>Filter Stats:</h3></a>
 		  <a  min-width=504 width=504 hight=200 min-width=280 align="center" href="https://github.com/Nathan-Bransby-NMT/github-readme-stats">
-	            <img src="https://github-readme-stats.vercel.app/api/?username=Nathan-Bransby-NMT&show_icons=true&count_private=true"></img>
+	            <img src="https://github-readme-stats.vercel.app/api/?username=Nathan-Bransby-NMT&theme=neon&show_icons=true&count_private=true"></img>
 		  </a>
 		  <a min-width=504 width=504 hight=200 min-width=280 align="center" href="https://github.com/Nathan-Bransby-NMT">
 		    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Bransby-NMT&theme=neon"></img>
