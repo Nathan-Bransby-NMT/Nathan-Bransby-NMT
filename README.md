@@ -74,7 +74,15 @@
 </p>
 <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center"></img>
 <div>
-  <img src="./assets/img/NMPH2024 - Participant.png" alt="National Missing Persons Hackathon 2024 Participant Badge." width=150px height=150px></img>
+  <table>
+    <tr>
+      <td><img src="./assets/img/NMPH2024 - Participant.png" alt="National Missing Persons Hackathon 2024 Participant Badge." width=150px height=150px></img></td>
+      <td>
+	<h2>Participant in the National Missing Persons Hackathon 2024</h2>
+	<p>For more information on the event check out the event details on the <a href="https://www.missingpersonshackathon.com.au/">official NMPH website.</a></p>
+      </td>
+    </tr>
+  </table>
 </div>
 <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center"></img>
 <p align="center">
