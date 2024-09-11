@@ -76,9 +76,11 @@
 <div>
   <table style="table-layout: fixed;">
     <tr>
-      <td><img src="./assets/img/NMPH2024 - Participant.png" alt="National Missing Persons Hackathon 2024 Participant Badge." width=150px height=150px style="min-width:150px; min-height:150px;" object-fit: fill></img></td>
-      <td>
+      <td rowspan=2><img src="./assets/img/NMPH2024 - Participant.png" alt="National Missing Persons Hackathon 2024 Participant Badge." width=150px height=150px style="min-width:150px; min-height:150px;" object-fit: fill></img></td>
+      <td rowspan=1>
 	<h2>Participant in the National Missing Persons Hackathon 2024</h2>
+      </td>
+      <td rowspan=1>
 	<p>For more information on the event check out the event details on the <a href="https://www.missingpersonshackathon.com.au/">official NMPH website.</a></p>
       </td>
     </tr>
