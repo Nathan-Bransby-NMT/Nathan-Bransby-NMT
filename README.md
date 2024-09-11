@@ -74,6 +74,7 @@
 </p>
 <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center"></img>
 <div>
+  <center>
   <table style="table-layout: fixed;">
     <tr>
       <td rowspan=1><img src="./assets/img/NMPH2024 - Participant.png" alt="National Missing Persons Hackathon 2024 Participant Badge." width=150px height=150px style="min-width:150px; min-height:150px;" object-fit: fill></img></td>
@@ -88,6 +89,7 @@
       </td>
     </tr>
   </table>
+  </center>
 </div>
 <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center"></img>
 <p align="center">
