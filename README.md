@@ -84,7 +84,7 @@
     <tr>
       <td></td>
       <td rowspan=1>
-	<p>For more information on the event check out the event details on the <a href="https://www.missingpersonshackathon.com.au/">official NMPH website.</a></p>
+	<p><sub>For more information on the event check out the event details on the <a href="https://www.missingpersonshackathon.com.au/">official NMPH website.</a></sub></p>
       </td>
     </tr>
   </table>
