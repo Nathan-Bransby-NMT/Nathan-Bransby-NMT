@@ -78,7 +78,7 @@
     <tr>
       <td rowspan=1><img src="./assets/img/NMPH2024 - Participant.png" alt="National Missing Persons Hackathon 2024 Participant Badge." width=150px height=150px style="min-width:150px; min-height:150px;" object-fit: fill></img></td>
       <td rowspan=1>
-	<h2>Participant in the National Missing Persons Hackathon 2024</h2>
+	<h4>Participant in the<br>National Missing Persons<br>Hackathon 2024</h4>
       </td>
     </tr>
     <tr>
