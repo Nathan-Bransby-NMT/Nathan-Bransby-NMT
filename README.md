@@ -72,7 +72,11 @@
   </table>
 </div>
 </p>
-<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center";></img>
+<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center"></img>
+<div>
+  <img src="./assets/img/NMPH2024\ -\ Participant.png" alt="National Missing Persons Hackathon 2024 Participant Badge." width=150px height=150px></img>
+</div>
+<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center"></img>
 <p align="center">
 <div style="margin: auto; width: 80%;">
   <table style="border: 1px solid #000; border-collapse: collapse; width: 100%;">
