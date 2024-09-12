@@ -87,12 +87,6 @@
 	</details>
       </td>
     </tr>
-    <tr>
-      <td></td>
-      <td rowspan=1>
-	<p><sub>For more information,<br>check out the event:<br><a href="https://www.missingpersonshackathon.com.au/">official NMPH website.</a></sub></p>
-      </td>
-    </tr>
   </table>
   </center>
 </div>
