@@ -16,7 +16,13 @@
     </tr>
     <!-- Bio/Summary -->
     <tr>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;" colspan="4 rowspan="2">I would write something about myself here.</td>
+      <td style="border: 1px solid #000; text-align: center; padding: 10px;" colspan="4 rowspan="2">
+        <p>Full-stack developer with a passion for crafting end-to-end solutions.<br>
+          I love turning complex problems into simple, elegant code—whether it's front-end magic or back-end architecture.<br>
+          Always exploring the latest in tech to build innovative, scalable projects.<br>
+          Let’s create something awesome!
+        </p>
+      </td>
     </tr>
     <tr></tr>
     <tr>
