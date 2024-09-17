@@ -1,5 +1,16 @@
 <svg width="600" height="300" xmlns="http://www.w3.org/2000/svg"
   xmlns:link="http://www.w3.org/1999/xlink">
+  <style>
+    @keyframes fadeInScale {
+      0% { opacity: 0; }
+      50% { opacity: 0.5; }
+      100% { opacity: 1; }
+    }
+
+    image {
+      animation: fadeInScale 1s ease-in-out indefinite;
+    }
+  </style>
   <!-- Image 1 -->
   <image id="angular" href="https://github.com/Nathan-Bransby-NMT/Nathan-Bransby-NMT/blob/main/assets/img/angular.png?raw=true" x="0" y="0" width="600" height="300" opacity="1">
     <animate attributeName="opacity" from="1" to="0" begin="0s" dur="1s" fill="freeze" />
