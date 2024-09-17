@@ -1,0 +1,54 @@
+<svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Image 1 -->
+  <image id="angular" href="../img/angular.png" x="0" y="0" width="600" height="300" opacity="1">
+    <animate attributeName="opacity" from="1" to="0" begin="0s" dur="1s" fill="freeze" />
+  </image>
+
+  <!-- Image 2 -->
+  <image id="astro" href="../img/astro.png" x="0" y="0" width="600" height="300" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1s" dur="1s" fill="freeze" />
+    <animate attributeName="opacity" from="1" to="0" begin="4s" dur="1s" fill="freeze" />
+  </image>
+
+  <!-- Image 3 -->
+  <image id="chrome" href="../img/chrome.png" x="0" y="0" width="600" height="300" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="5s" dur="1s" fill="freeze" />
+    <animate attributeName="opacity" from="1" to="0" begin="8s" dur="1s" fill="freeze" />
+  </image>
+
+  <!-- Image 4 -->
+  <image id="github" href="../img/github.png" x="0" y="0" width="600" height="300" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="9s" dur="1s" fill="freeze" />
+    <animate attributeName="opacity" from="1" to="0" begin="12s" dur="1s" fill="freeze" />
+  </image>
+
+  <!-- Image 5 -->
+  <image id="laravel" href="../img/laravel.png" x="0" y="0" width="600" height="300" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="13s" dur="1s" fill="freeze" />
+    <animate attributeName="opacity" from="1" to="0" begin="16s" dur="1s" fill="freeze" />
+  </image>
+
+  <!-- Image 6 -->
+  <image id="node" href="../img/node.png" x="0" y="0" width="600" height="300" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="17s" dur="1s" fill="freeze" />
+    <animate attributeName="opacity" from="1" to="0" begin="20s" dur="1s" fill="freeze" />
+  </image>
+
+  <!-- Image 7 -->
+  <image id="react" href="../img/react.png" x="0" y="0" width="600" height="300" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="21s" dur="1s" fill="freeze" />
+    <animate attributeName="opacity" from="1" to="0" begin="24s" dur="1s" fill="freeze" />
+  </image>
+
+  <!-- Image 8 -->
+  <image id="svelte" href="../img/svelte.png" x="0" y="0" width="600" height="300" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="25s" dur="1s" fill="freeze" />
+    <animate attributeName="opacity" from="1" to="0" begin="28s" dur="1s" fill="freeze" />
+  </image>
+
+  <!-- Image 9 -->
+  <image id="vite" href="../img/vite.png" x="0" y="0" width="600" height="300" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="29s" dur="1s" fill="freeze" />
+    <animate attributeName="opacity" from="1" to="0" begin="32s" dur="1s" fill="freeze" />
+  </image>
+</svg>
