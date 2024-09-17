@@ -7,7 +7,7 @@
       100% { opacity: 1; }
     }
 
-    image {
+    ._image {
       animation: fadeInScale 1s ease-in-out indefinite;
     }
   </style>
