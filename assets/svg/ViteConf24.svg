@@ -13,9 +13,10 @@
       image {
         animation: fadeInScale 1s ease-in-out indefinite;
       }
-    </style>
+    </style
+    <img id="angular" src="https://raw.githubusercontent.com/Nathan-Bransby-NMT/Nathan-Bransby-NMT/main/assets/img/angular.png" x="0" y="0" width="600" height="300" opacity="1" />  
     <!-- Image 1 -->
-    <image id="angular" href="data:img/svg+xml;base64, https://raw.githubusercontent.com/Nathan-Bransby-NMT/Nathan-Bransby-NMT/main/assets/img/angular.png" x="0" y="0" width="600" height="300" opacity="1">
+    <image id="angular" href="https://raw.githubusercontent.com/Nathan-Bransby-NMT/Nathan-Bransby-NMT/main/assets/img/angular.png" x="0" y="0" width="600" height="300" opacity="1">
       <animate attributeName="opacity" from="1" to="0" begin="0s" dur="1s" fill="freeze" />
     </image>
   
