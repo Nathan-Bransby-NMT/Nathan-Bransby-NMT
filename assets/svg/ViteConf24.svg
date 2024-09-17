@@ -1,6 +1,5 @@
 <svg width="600" height="300" xmlns="http://www.w3.org/2000/svg"
   xmlns:link="http://www.w3.org/1999/xlink">
-  <div width="600" height="300">
     <style>
       @keyframes fadeInScale {
         0% { opacity: 0; }
@@ -64,5 +63,4 @@
       <animate attributeName="opacity" from="0" to="1" begin="29s" dur="1s" fill="freeze" />
       <animate attributeName="opacity" from="1" to="0" begin="32s" dur="1s" fill="freeze" />
     </image>
-  </div>
 </svg>
