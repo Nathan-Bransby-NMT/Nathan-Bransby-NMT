@@ -1,3 +1,8 @@
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=solidity&logoColor=%230055FF&logoSize=auto&label=solidity&labelColor=%230055FF&color=%23101010&cacheSeconds=3600)
+
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=solidity&logoColor=%230055FF&logoSize=auto&label=solidity&labelColor=%230055FF&color=%23101010&cacheSeconds=3600">
+
+
 <img width=1000px hight=200 min-width="200%" align="center" src="./assets/svg/readme-banner.svg"></img>
 <br>
 <p align="center">
@@ -80,6 +85,7 @@
 </p>
 <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center"></img>
 <div>
+  <h3>Events & Highlights</h3>
   <center>
   <table style="table-layout: fixed;">
     <tr>
