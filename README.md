@@ -1,10 +1,53 @@
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=solidity&logoColor=%230055FF&logoSize=auto&label=solidity&labelColor=%230055FF&color=%23101010&cacheSeconds=3600)
+<p align="center">
+	<img width=1000px hight=200 min-width="200%" align="center" src="./assets/svg/readme-banner.svg"></img>
+</p>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=solidity&logoColor=%230055FF&logoSize=auto&label=solidity&labelColor=%230055FF&color=%23101010&cacheSeconds=3600">
-
-
-<img width=1000px hight=200 min-width="200%" align="center" src="./assets/svg/readme-banner.svg"></img>
+<p align="center">
+	Show your support:
+	<br>
+	<a href="https://github.com/sponsors/Nathan-Bransby-NMT">
+		<img src="https://img.shields.io/github/sponsors/Nathan-Bransby-NMT?style=plastic&logoSize=auto&logo=GitHub-Sponsors&logoColor=#white">
+	</a>
+	&nbsp;&nbsp;
+	<a href=https://brnsb.eth.limo>
+		<img src="https://img.shields.io/badge/brnsb.eth-0099ff?&social&logoSize=auto&logo=ethereum&logoColor=white">
+	</a>
+	<br>
+	Get in contact:
+	<br>
+	<a href="https://brnsb.eth.limo">
+		<img src="https://img.shields.io/badge/ipfs_ens_site-30363D?$style=plastic&logo=ipfs&logoColor=65C2CB">
+	</a>
+	&nbsp;&nbsp;
+	<a href="mailto:brnsb.dev@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=flatl&logo=gmail&logoColor=white">
+	</a>
+</p>
 <br>
+
+[![][release]][release-link]
+
+<hr>
+<!--Main-Section-->
+<br>
+<img src="./assets/svg/141193650.svg" width=200px align="left" alt="image" />
+<p align="left">
+	<a href="https://github.com/Nathan-Bransby-NMT?tab=repositories">
+		<img src="https://img.shields.io/github/stars/Nathan-Bransby-NMT?style=flat-square&label=Total+Stars" >
+	</a>
+	&nbsp;&nbsp;
+	<a href="https://github.com/sponsors/Nathan-Bransby-NMT">
+		<img src="https://img.shields.io/github/sponsors/Nathan-Bransby-NMT?style=social&logoSize=auto&logo=GitHub-Sponsors&logoColor=#white">
+	</a>)
+	&nbsp;&nbsp;
+	<img src="https://img.shields.io/github/followers/Nathan-Bransby-NMT" >
+</p>
+Full-stack developer with a passion for crafting end-to-end solutions.<br>
+I love turning complex problems into simple, elegant code—whether it's front-end magic or back-end architecture.<br>
+Always exploring the latest in tech to build innovative, scalable projects.
+<br><br>
+Let’s create something awesome!
+</p>
 <p align="center">
 <div style="margin: auto; width: 80%;">
   <table style="border: 1px solid #000; border-collapse: collapse; width: 100vw; table-layout: fixed;">
@@ -86,21 +129,40 @@
 <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center"></img>
 <div>
   <h3>Events & Highlights</h3>
-  <center>
-  <table style="table-layout: fixed;">
-    <tr>
-      <td rowspan=1><img src="./assets/img/NMPH2024 - Participant.png" alt="National Missing Persons Hackathon 2024 Participant Badge." width=150px height=150px style="min-width:150px; min-height:150px;" object-fit: fill></img></td>
-      <td rowspan=1>
-	<details>
-	  <summary>
-	    <h4>Participant in the<br>National Missing Persons<br>Hackathon 2024</h4>
-	  </summary>
-	  <p><sub>For more information,<br>check out the event:<br><a href="https://www.missingpersonshackathon.com.au/">official NMPH website.</a></sub></p>
-	</details>
-      </td>
-    </tr>
-  </table>
-  </center>
+  <blockquote>
+    <table style="table-layout: fixed;">
+      <tr>
+        <td rowspan=1>
+					<img src="./assets/img/NMPH2024 - Participant.png" 
+							 alt="National Missing Persons Hackathon 2024 Participant Badge." 
+							 style="min-width:150px; min-height:150px; width:150px; height: 150px;">
+				</td>
+        <td rowspan=1>
+	  			<details>
+	    			<summary>
+	      			<h4>Participant in the<br>National Missing Persons<br>Hackathon 2024</h4>
+	    			</summary>
+	    			<p>
+							<sub>
+								For more information,<br>check out the event:
+								<br>
+								<a href="https://www.missingpersonshackathon.com.au/">official NMPH website.</a>
+							</sub>
+						</p>
+	  			</details>
+        </td>
+      </tr>
+    </table>
+  </blockquote>
+  <blockquote>
+    <h4>Trophies</h4>
+    <img src="https://github-profile-trophy.vercel.app/?username=Nathan-Bransby-NMT">
+  </blockquote>
+	<hr>
+	<blockquote>
+		<h4>Activity</h4>
+		<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan-Bransby-NMT">
+	</blockquote>
 </div>
 <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center"></img>
 <p align="center">
