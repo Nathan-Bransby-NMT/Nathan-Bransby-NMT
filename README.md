@@ -2,7 +2,7 @@
 	<img width=1000px hight=200 min-width="200%" align="center" src="./assets/svg/readme-banner.svg"></img>
 </p>
 
-<p align="center">
+<p align="right">
 	Show your support:
 	<br>
 	<a href="https://github.com/sponsors/Nathan-Bransby-NMT">
@@ -12,7 +12,7 @@
 	<a href=https://brnsb.eth.limo>
 		<img src="https://img.shields.io/badge/brnsb.eth-0099ff?&social&logoSize=auto&logo=ethereum&logoColor=white">
 	</a>
-	<br>
+	<!--br>
 	Get in contact:
 	<br>
 	<a href="https://brnsb.eth.limo">
@@ -21,12 +21,8 @@
 	&nbsp;&nbsp;
 	<a href="mailto:brnsb.dev@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=flatl&logo=gmail&logoColor=white">
-	</a>
+</a-->
 </p>
-<br>
-
-[![][release]][release-link]
-
 <hr>
 <!--Main-Section-->
 <br>
@@ -41,6 +37,7 @@
 	</a>)
 	&nbsp;&nbsp;
 	<img src="https://img.shields.io/github/followers/Nathan-Bransby-NMT" >
+	
 </p>
 Full-stack developer with a passion for crafting end-to-end solutions.<br>
 I love turning complex problems into simple, elegant code—whether it's front-end magic or back-end architecture.<br>
@@ -48,21 +45,15 @@ Always exploring the latest in tech to build innovative, scalable projects.
 <br><br>
 Let’s create something awesome!
 </p>
+<!--
 <p align="center">
 <div style="margin: auto; width: 80%;">
   <table style="border: 1px solid #000; border-collapse: collapse; width: 100vw; table-layout: fixed;">
-    <!--tr>
-      <th style="border: 3px solid #000; text-align: center; padding: 80px 0;" colspan="7">
-        <h2>Welcome to my GitHub Profile!!!</h2>
-      </th>
-  </tr-->
     <tr>
-      <!-- Profile Image -->
       <td style="border: 1px solid #000; text-align: center; padding: 5px;" colspan="3" rowspan="7">
             <img alt="Profile hero image." src="./assets/svg/141193650.svg" style="width: 100%; height: 200px; object-fit: fill;">
       </td>
     </tr>
-    <!-- Bio/Summary -->
     <tr>
       <td style="border: 1px solid #000; text-align: center; padding: 10px;" colspan="4 rowspan="2">
         <p>Full-stack developer with a passion for crafting end-to-end solutions.<br>
@@ -74,7 +65,6 @@ Let’s create something awesome!
     </tr>
     <tr></tr>
     <tr>
-      <!-- Email Address -->
       <td style="border: 1px solid #000; text-align: center; padding: 10px;" colspan="3" rowspan="1">
         <p>
           <samp>Email Address : 
@@ -89,7 +79,6 @@ Let’s create something awesome!
       </td>
     </tr>
     <tr>
-      <!-- IFTP Web3 Site -->
       <td style="border: 1px solid #000; text-align: center; padding: 10px;" colspan="1">
         <table>
           <tr>
@@ -124,7 +113,7 @@ Let’s create something awesome!
       <td style="border: 1px solid #000; text-align: center; padding: 10px;">1x1 Link Icon</td>
     </tr>
   </table>
-</div>
+</div-->
 </p>
 <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center"></img>
 <div>
