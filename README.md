@@ -142,6 +142,24 @@ Let’s create something awesome!
         </td>
       </tr>
     </table>
+    <br>
+    <table style="table-layout: fixed;">
+      <tr>
+        <td>
+          <img src="./assets/img/angular.png" style="min-height: 150px; height: 150px;" >
+        </td>
+        <td>
+          <details>
+            <summary>
+              <h4>ViteConf '24</h4>
+            </summary>
+            <p>
+             Attended [ViteConf 2024](https://viteconf.org)
+            </p>
+          </details>
+        </td>
+      </tr>
+    </table>
   </blockquote>
   <blockquote>
     <h4>Trophies</h4>
