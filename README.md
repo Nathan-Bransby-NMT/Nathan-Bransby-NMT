@@ -154,7 +154,7 @@ Let’s create something awesome!
               <h4>ViteConf '24</h4>
             </summary>
             <p>
-             Attended [ViteConf 2024](https://viteconf.org)
+             Attended <a href="https://viteconf.org">ViteConf 2024]</a>
             </p>
           </details>
         </td>
