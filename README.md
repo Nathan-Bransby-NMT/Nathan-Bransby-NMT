@@ -40,12 +40,18 @@ Let’s create something awesome together!
 <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="left">
 <br>
 <h2 align='right'>Github Statistics</h2>
-<table style="table-layout: fixed;">
+<table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Bransby-NMT&theme=neon"  width=80% style="max-width:370px; min-height:140px">
-	  <img src="https://github-readme-stats.vercel.app/api/?username=Nathan-Bransby-NMT&theme=neon&show_icons=true&count_private=true" align='right' width=80% style="max-width:350px; max-height:150">
-	</td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Bransby-NMT&theme=neon"  
+					 style="max-width:370px; min-height:140px"
+					 align='left'
+					 width=390px>
+  	  <img src="https://github-readme-stats.vercel.app/api/?username=Nathan-Bransby-NMT&theme=neon&show_icons=true&count_private=true" 
+					 style="max-width:350px; max-height:150"
+					 align='right' 
+					 width=370px>
+	  </td>
   </tr>
 </table>
 <br>
@@ -54,8 +60,8 @@ Let’s create something awesome together!
 <div>
   <h2>Recent Events</h2>
   <blockquote>
-    <!--October 2024-->
-	<h3 align="right">November 2024</h3>
+  <!--November 2024-->
+	<h3 align="right"><samp>November 2024</samp></h3>
     <table style="table-layout: fixed;">
 	  <tr>
 	    <th><h4 align="center">Google DevFest 2024</h4></th>
@@ -90,15 +96,16 @@ Let’s create something awesome together!
   </blockquote>
   <!--October 2024-->
   <blockquote>
-    <h3 align='right'>October 2024</h3>
+    <h3 align='right'><samp>October 2024<samp></h3>
     <table style="table-layout: fixed;">
       <tr>
 	    <th><h4 align='center'>ViteConf 2024<samp>(virtual attendance)</samp></h4>
 	  </tr>
 	  <tr>
-        <td>
+        <td align='center'>
           <img src="./assets/img/ViteConf24.png" 
-		  	   style="height: 200px; max-height: 250px; min-height: 20px; min-width:350px" >
+		  	   		 style="height: 280px; max-height: 280px; min-height: 200px; min-width:350px" 
+							 align='center'>
         </td>
 	  </tr>
 	  <tr>
@@ -121,16 +128,19 @@ Let’s create something awesome together!
 				</tr>
 				<tr>
 			      <td>
-			        <img src="./assets/svg/astro.svg" style="height:20px" alt="Astro logo">
+			        <img src="./assets/svg/astro.svg" style="height:20px" alt="Astro logo" align='center'>
 			      </td>
 			      <td>
-			        <img src="./assets/svg/react.svg" alt="React logo" style="height:20px">  
+			        <img src="./assets/svg/react.svg" alt="React logo" style="height:20px" align='center'>  
 			      </td>
 			      <td>
-			        <img src="./assets/svg/vue.svg" alt="Vue JS logo" style="height:20px">  
+			        <img src="./assets/svg/vue.svg" alt="Vue JS logo" style="height:20px" align='center'>  
 			      </td>
 			      <td>
-			        <img src="./assets/svg/angular.svg" alt="Angular JS logo" style="height:20px">  
+			        <img src="./assets/svg/angular.svg" alt="Angular JS logo" style="height:20px" align='center'>  
+			      </td>
+			      <td>
+			        <img src="./assets/svg/node.svg" alt="NodeJS logo" style="height:20px" align='center'>  
 			      </td>
 			    </tr>
 			    <tr>
@@ -146,47 +156,59 @@ Let’s create something awesome together!
 			      <td>
 				    <h4><a href="https://angular.dev/">Angular</a></h4>
 				  </td>
-			    </tr>
-			    <tr>
-			      <td>
-			        <img src="./assets/svg/node.svg" alt="NodeJS logo" style="height:20px">  
-			      </td>
-			      <td>
-			        <img src="./assets/svg/chrome.svg" alt="Google Chrome logo" style="height:20px">  
-			      </td>
-			      <td>
-			        <img src="./assets/svg/azure.svg" alt="Microsoft Azure logo" style="height:20px">  
-			      </td>
-			      <td>
-			        <img src="./assets/svg/ruby.svg" alt="Ruby logo" style="height:20px">  
-			      </td>
-			    </tr>
-			    <tr>
 			      <td>
 				    <h4><a href="https://nodejs.org/en">NodeJS</a></h4>
 				  </td>
+			    </tr>
+			    <tr>
 			      <td>
-				    <h4><a href="https://www.google.com/intl/en_au/chrome/">Google Chrome</a></h4>
-				  </td>
+			        <img src="./assets/svg/chrome.svg" alt="Google Chrome logo" style="height:20px" align='center'>  
+			      </td>
+			      <td>
+			        <img src="./assets/svg/azure.svg" alt="Microsoft Azure logo" style="height:20px" align='center'>  
+			      </td>
+			      <td>
+			        <img src="./assets/svg/ruby.svg" alt="Ruby logo" style="height:20px" align='center'>  
+			      </td>
+			      <td>
+			        <img src="./assets/svg/laravel.svg" alt="Laravel logo" style="height:20px" align='center'>  
+			      </td>
+			      <td>
+			        <img src="./assets/svg/nuxt.svg" alt="Nuxt logo" style="height:20px" align='center'>  
+			      </td>
+			    </tr>
+			    <tr>
+			      <td>
+				<h4><a href="https://www.google.com/intl/en_au/chrome/">Google Chrome</a></h4>
+			      </td>
 			      <td>
 				    <h4><a href="https://azure.microsoft.com/en-ca">Microsoft Azure</a></h4>
 				  </td>
 			      <td>
 				    <h4><a href="https://www.ruby-lang.org/en/">Ruby</a></h4>
 				  </td>
+			      <td>
+				    <h4><a href="https://laravel.com/">Laravel</a></h4>
+				  </td>
+			      <td>
+				    <h4><a href="https://nuxt.com/">Nuxt</a></h4>
+				  </td>
 			    </tr>
 			    <tr>
 			      <td>
-			        <img src="./assets/svg/svelte.svg" alt="Svelte logo" style="height:20px">  
+			        <img src="./assets/svg/svelte.svg" alt="Svelte logo" style="height:20px" align='center'>  
 			      </td>
 			      <td>
-			        <img src="./assets/svg/solid.svg" alt="SolidJS logo" style="height:20px">  
+			        <img src="./assets/svg/solid.svg" alt="SolidJS logo" style="height:20px" align='center'>  
 			      </td>
 			      <td>
-			        <img src="./assets/svg/voidzero.svg" alt="Void(0) logo" style="height:20px">  
+			        <img src="./assets/svg/voidzero.svg" alt="Void(0) logo" style="height:20px" align='center'>  
 			      </td>
 			      <td>
-			        <img src="./assets/svg/volar.svg" alt="VolarJS logo" style="height:20px">  
+			        <img src="./assets/svg/volar.svg" alt="VolarJS logo" style="height:20px" align='center'>  
+			      </td>
+			      <td>
+			        <img src="./assets/svg/remix.svg" alt="Remix logo" style="height:20px" align='center'>
 			      </td>
 			    </tr>
 			    <tr>
@@ -202,45 +224,25 @@ Let’s create something awesome together!
 			      <td>
 				    <h4><a href="https://volarjs.dev/">VolaJS</a></h4>
 				  </td>
-			    </tr>
-			    <tr>
-			      <td>
-			        <img src="./assets/svg/laravel.svg" alt="" style="height:20px">  
-			      </td>
-			      <td>
-			        <img src="./assets/svg/nuxt.svg" alt="Nuxt logo" style="height:20px">  
-			      </td>
-			      <td>
-			        <img src="./assets/svg/oxc.svg" alt="OXC logo" style="height:20px">
-			      </td>
-			      <td>
-			        <img src="./assets/svg/remix.svg" alt="Remix logo" style="height:20px">
-			      </td>
-			    </tr>
-			    <tr>
-			      <td>
-				    <h4><a href="https://laravel.com/">Laravel</a></h4>
-				  </td>
-			      <td>
-				    <h4><a href="https://nuxt.com/">Nuxt</a></h4>
-				  </td>
-			      <td>
-				    <h4><a href="https://oxc.rs/">OXC</a></h4>
-				  </td>
 			      <td>
 				    <h4><a href="https://remix.run/">Remix</a></h4>
-				  </td>
+			      </td>
 			    </tr>
 			    <tr>
 			      <td>
-			        <img src="./assets/svg/shopify.svg" alt="Shopify logo" style="height:20px;">  
-			      </td>
-			        <img src="./assets/svg/vitest.svg" alt="Vitest logo" style="height:20px;">
-			      <td>
-			        <img src="./assets/svg/unjs.svg" alt="UnJS logo" style="height:20px;">
+			        <img src="./assets/svg/shopify.svg" alt="Shopify logo" style="height:20px;" align='center'>  
 			      </td>
 			      <td>
-  			        <img src="./assets/svg/vitepress.svg" alt="VitePress logo" style="height:20px;">
+			        <img src="./assets/svg/vitest.svg" alt="Vitest logo" style="height:20px;" align='center'>
+			      </td>
+			      <td>
+			        <img src="./assets/svg/unjs.svg" alt="UnJS logo" style="height:20px;" align='center'>
+			      </td>
+			      <td>
+  			        <img src="./assets/svg/vitepress.svg" alt="VitePress logo" style="height:20px;" align='center'>
+			      </td>
+			      <td>
+			        <img src="./assets/svg/oxc.svg" alt="OXC logo" style="height:20px" align='center'>
 			      </td>
 			    </tr>
 			    <tr>
@@ -256,6 +258,9 @@ Let’s create something awesome together!
 			      <td>
 				    <h4><a href="https://vitepress.dev/">VitePress</a></h4>
 				  </td>
+			      <td>
+				    <h4><a href="https://oxc.rs/">OXC</a></h4>
+			     </td>
 			  	</tr>
 		      </table>
 			  <p>And many more!
@@ -269,35 +274,38 @@ Let’s create something awesome together!
   </blockquote>
   <!--September 2024-->
   <blockquote>
-	<h3 align="right">September 2024</h3>
+	<h3 align="right"><samp>September 2024</samp></h3>
     <table style="table-layout: fixed;">
 	  <tr>
 	    <th colspan=2><h4 align='center'>National Missing Persons Hackathon 2024</h4></th>
 	  </tr>
       <tr>
-        <td>
+        <td width=30% align='center'>
 		  <img src="./assets/img/NMPH2024 - Participant.png" 
+			     style="max-width:250px; min-width:250px; width:150px; max-height:250px; min-height:150px; height: 150px;"
 		  	   alt="National Missing Persons Hackathon 2024 Participant Badge." 
-			   style="max-width:250px; min-width:150px; width:150px; max-height:250px; min-height:150px; height: 150px;"
-			/>
+					 align='center'>
 		</td>
-        <td>
-	      <p>Participant in the National Missing Persons Hackathon 2024.<br><br><b>Ranking 7th Place.</b>
+    <td align='center'>
+	    <p>Participant in the National Missing Persons Hackathon 2024.<br><br><b>Ranking 7th Place.</b>
 		  </p>
 		</td>
 	  </tr>
-	  <tr colspan=2>
-	  	<td>
+	  <tr>
+	  	<td colspan=2>
 		  <details>
 		    <summary>About Event</summary>
-			<p>The <b>National Missing Persons Hackathon</b> is a non-theoretical capture the flag (CTP) competition where participants source intelligence and potentials leads on real missing person cases during a 6 hour event.
-			<br><br>
-			Participants are awarded points based on the number of submissions, which could include recent photos, last know locations, social media accounts, etc.
-			<br><br>
-			This year my team <samp>(consisting of 2 members)</samp> <b>placed 7th</b> against <b>212</b> other teams.<br>We were also able to source recent information indicating the whereabouts of a person who had been evading police for roughly 10 years.
-			<br><br>
-			<sub>For more information,<br>check out the <a href="https://www.missingpersonshackathon.com.au/">official NMPH website.</a></sub>
-			</p>
+				<blockquote>
+					<p>
+						The <b>National Missing Persons Hackathon</b> is a non-theoretical capture the flag (CTP) competition where participants source intelligence and potentials leads on real missing person cases during a 6 hour event.
+						<br><be>
+						Participants are awarded points based on the number of submissions, which could include recent photos, last know locations, social media accounts, etc.
+						<br><be>
+						This year my team <samp>(consisting of 2 members)</samp> <b>placed 7th</b> against <b>212</b> other teams.<br>We were also able to source recent information indicating the whereabouts of a person who had been evading police for roughly 10 years.
+						<br><be>
+						<sub>For more information,<br>check out the <a href="https://www.missingpersonshackathon.com.au/">official NMPH website.</a></sub>
+					</p>
+				</blockquote>
 		  </details>
         </td>
       </tr>
@@ -306,14 +314,14 @@ Let’s create something awesome together!
   <br>
   <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center"></img>
   <blockquote>
-    <h4>Trophies</h4>
+    <h3 allign='center'>Trophies</h3>
     <img src="https://github-profile-trophy.vercel.app/?username=Nathan-Bransby-NMT">
   </blockquote>
   <br>
   <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center">
   <br>
   <blockquote>
-    <h4>Activity</h4>
+    <h3 align='center'>Activity</h3>
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan-Bransby-NMT">
   </blockquote>
 </div>
