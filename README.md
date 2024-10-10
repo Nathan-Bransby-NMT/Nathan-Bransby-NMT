@@ -1,273 +1,319 @@
 <p align="center">
-	<img width=1000px hight=200 min-width="200%" align="center" src="./assets/svg/readme-banner.svg"></img>
+	<img width=1000px hight=200 min-width="200%" align="center" src="./assets/svg/readme-banner.svg" style="border-radius:50px; scale:1.1"></img>
 </p>
 
 <p align="right">
-	Show your support:
-	<br>
-	<a href="https://github.com/sponsors/Nathan-Bransby-NMT">
-		<img src="https://img.shields.io/github/sponsors/Nathan-Bransby-NMT?style=plastic&logoSize=auto&logo=GitHub-Sponsors&logoColor=#white">
-	</a>
-	&nbsp;&nbsp;
-	<a href=https://brnsb.eth.limo>
-		<img src="https://img.shields.io/badge/brnsb.eth-0099ff?&social&logoSize=auto&logo=ethereum&logoColor=white">
-	</a>
-	<!--br>
-	Get in contact:
-	<br>
-	<a href="https://brnsb.eth.limo">
-		<img src="https://img.shields.io/badge/ipfs_ens_site-30363D?$style=plastic&logo=ipfs&logoColor=65C2CB">
-	</a>
-	&nbsp;&nbsp;
-	<a href="mailto:brnsb.dev@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=flatl&logo=gmail&logoColor=white">
-</a-->
+  Show your support:
+  <br>
+  <a href="https://github.com/sponsors/Nathan-Bransby-NMT">
+	<img src="https://img.shields.io/github/sponsors/Nathan-Bransby-NMT?style=plastic&logoSize=auto&logo=GitHub-Sponsors&logoColor=#white">
+  </a>
+  &nbsp;&nbsp;
+  <a href=https://brnsb.eth.limo>
+	<img src="https://img.shields.io/badge/brnsb.eth-0099ff?&social&logoSize=auto&logo=ethereum&logoColor=white">
+  </a>
 </p>
 <hr>
 <!--Main-Section-->
 <br>
 <img src="./assets/svg/141193650.svg" width=200px align="left" alt="image" />
 <p align="left">
-	<a href="https://github.com/Nathan-Bransby-NMT?tab=repositories">
-		<img src="https://img.shields.io/github/stars/Nathan-Bransby-NMT?style=flat-square&label=Total+Stars" >
-	</a>
-	&nbsp;&nbsp;
-	<a href="https://github.com/sponsors/Nathan-Bransby-NMT">
-		<img src="https://img.shields.io/github/sponsors/Nathan-Bransby-NMT?style=social&logoSize=auto&logo=GitHub-Sponsors&logoColor=#white">
-	</a>)
-	&nbsp;&nbsp;
-	<img src="https://img.shields.io/github/followers/Nathan-Bransby-NMT" >
-	
+  &nbsp;&nbsp;
+  <a href="https://github.com/Nathan-Bransby-NMT?tab=repositories">
+	<img src="https://img.shields.io/github/stars/Nathan-Bransby-NMT?style=flat-square&label=Total+Stars" >
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sponsors/Nathan-Bransby-NMT">
+	<img src="https://img.shields.io/github/sponsors/Nathan-Bransby-NMT?style=social&logoSize=auto&logo=GitHub-Sponsors&logoColor=#white">
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Nathan-Bransby-NMT" >	
 </p>
+<p align='center'>
 Full-stack developer with a passion for crafting end-to-end solutions.<br>
-I love turning complex problems into simple, elegant code—whether it's front-end magic or back-end architecture.<br>
+I love turning complex problems into simple, elegant code <br>whether it's front-end design or back-end architecture.<br>
 Always exploring the latest in tech to build innovative, scalable projects.
 <br><br>
-Let’s create something awesome!
+Let’s create something awesome together!
 </p>
-<!--
-<p align="center">
-<div style="margin: auto; width: 80%;">
-  <table style="border: 1px solid #000; border-collapse: collapse; width: 100vw; table-layout: fixed;">
-    <tr>
-      <td style="border: 1px solid #000; text-align: center; padding: 5px;" colspan="3" rowspan="7">
-            <img alt="Profile hero image." src="./assets/svg/141193650.svg" style="width: 100%; height: 200px; object-fit: fill;">
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;" colspan="4 rowspan="2">
-        <p>Full-stack developer with a passion for crafting end-to-end solutions.<br>
-          I love turning complex problems into simple, elegant code—whether it's front-end magic or back-end architecture.<br>
-          Always exploring the latest in tech to build innovative, scalable projects.<br>
-          Let’s create something awesome!
-        </p>
-      </td>
-    </tr>
-    <tr></tr>
-    <tr>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;" colspan="3" rowspan="1">
-        <p>
-          <samp>Email Address : 
-          <a href="mailto:brnsb.eth@mail3.me">brnsb.eth@mail3.me</a></samp>
-        </p>
-      </td>
-      <td style="border: 1px solid #000; text-align: center; padding: 3px;" colspan="1" rowspan="1">
-        <a href="mailto:brnsb.eth@mail3.me" style="text-decoration: none;">
-          <img src="./assets/svg/mail3-btn.svg" alt="Contact me via email" 
-               style="vertical-align: middle; height: auto; width:5em; object-fit: fill;">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;" colspan="1">
-        <table>
-          <tr>
-            <td><a href="https://brnsb.eth.limo">brnsb.eth.limo</a></td>
-          </tr>
-        </table>
-      </td>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;" colspan="3">
-        <p>Visit my decentralized IFTP Website on the Web3</p> 
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;" colspan="1">ICON</td>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;" colspan="3">Description</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;" colspan="1">Icon</td>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;" colspan="3">Description</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;" colspan="3">
-        <big>
-          <b>Nathan Bransby
-            <sub><i>(<u>He/Him</u>)</i></sub><br>
-          </b>
-        </big>
-        <samp>26 Years in the making.</samp>
-      </td>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;">1x1 Link Icon</td>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;">1x1 Link Icon</td>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;">1x1 Link Icon</td>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;">1x1 Link Icon</td>
-    </tr>
-  </table>
-</div-->
-</p>
-<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center"></img>
+<br>
+<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="left">
+<br>
+<h2 align='right'>Github Statistics</h2>
+<table style="table-layout: fixed;">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Bransby-NMT&theme=neon"  width=80% style="max-width:370px; min-height:140px">
+	  <img src="https://github-readme-stats.vercel.app/api/?username=Nathan-Bransby-NMT&theme=neon&show_icons=true&count_private=true" align='right' width=80% style="max-width:350px; max-height:150">
+	</td>
+  </tr>
+</table>
+<br>
+<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="left">
+<br>
 <div>
-  <h3>Events & Highlights</h3>
+  <h2>Recent Events</h2>
   <blockquote>
+    <!--October 2024-->
+	<h3 align="right">November 2024</h3>
     <table style="table-layout: fixed;">
-      <tr>
-        <td rowspan=1>
-					<img src="./assets/img/NMPH2024 - Participant.png" 
-							 alt="National Missing Persons Hackathon 2024 Participant Badge." 
-							 style="min-width:150px; min-height:150px; width:150px; height: 150px;">
-				</td>
-        <td rowspan=1>
-	  			<details>
-	    			<summary>
-	      			<h4>Participant in the<br>National Missing Persons<br>Hackathon 2024</h4>
-	    			</summary>
-	    			<p>
-							<sub>
-								For more information,<br>check out the event:
-								<br>
-								<a href="https://www.missingpersonshackathon.com.au/">official NMPH website.</a>
-							</sub>
-						</p>
-	  			</details>
-        </td>
+	  <tr>
+	    <th><h4 align="center">Google DevFest 2024</h4></th>
+	  </tr>
+	  <tr>
+	    <td>
+		  <img src="./assets/img/Perth_DevFest24.png">
+		</td>
       </tr>
-    </table>
-    <br>
+	  <tr>
+	    <td>
+		  <details>
+		    <summary>About Event</summary>
+			<blockquote>
+			  <p>Attended Google DevFest '24 in Perth, Western Australia.
+			  <br><br>
+			  A one-day conference organised annually by the Google Developer Group (GDG) Perth, focused on community building and exploring Google's latest technologies.
+			  <br>
+			  <h4>Key-Topics</h4>
+			  <ul>
+			    <li>In-depth sessions on AI</li>
+				<li>Web Development with Google technologies=</li>
+				<li>The latest cloud-based innovations</li>
+			  </ul>
+			  Find out <a href="https://gdg.community.dev/events/details/google-gdg-perth-presents-devfest-perth-ai-web-cloud-amp-navigating-your-career/">more</a> about this event.
+			  </p>
+			</blockquote>
+		  </details>
+		</td>
+	  </tr>
+	</table>
+  </blockquote>
+  <!--October 2024-->
+  <blockquote>
+    <h3 align='right'>October 2024</h3>
     <table style="table-layout: fixed;">
       <tr>
+	    <th><h4 align='center'>ViteConf 2024<samp>(virtual attendance)</samp></h4>
+	  </tr>
+	  <tr>
         <td>
-          <img src="./assets/img/angular.png" style="min-height: 150px; height: 150px;" >
+          <img src="./assets/img/ViteConf24.png" 
+		  	   style="height: 200px; max-height: 250px; min-height: 20px; min-width:350px" >
         </td>
+	  </tr>
+	  <tr>
         <td>
           <details>
             <summary>
-              <h4>ViteConf '24</h4>
+              About Event
             </summary>
-            <p>
-             Attended <a href="https://viteconf.org">ViteConf 2024</a>
-            </p>
+			<blockquote>
+              <p>Virtually participated in workshops and attended presentations at <a href='https://viteconf.org/'>ViteConf 2024</a>.
+			  <br><br>
+			  ViteConf is 24 hr online event for web developers where you can engage and learn from some of the leaders innovating the Vite Ecosystem, through talks and host interactive workshops.
+			  <br><br>
+			  2024 marked the 3rd year of ViteConf and consisted of 45 presentations representing some of the biggest names in web tech<br>
+			  including:<br>
+			  </p>
+			  <table style="table-layout: fixed;">
+			    <tr>
+				  <th></th>
+				</tr>
+				<tr>
+			      <td>
+			        <img src="./assets/svg/astro.svg" style="height:20px" alt="Astro logo">
+			      </td>
+			      <td>
+			        <img src="./assets/svg/react.svg" alt="React logo" style="height:20px">  
+			      </td>
+			      <td>
+			        <img src="./assets/svg/vue.svg" alt="Vue JS logo" style="height:20px">  
+			      </td>
+			      <td>
+			        <img src="./assets/svg/angular.svg" alt="Angular JS logo" style="height:20px">  
+			      </td>
+			    </tr>
+			    <tr>
+		          <td>
+			        <h4><a href="https://astro.build/">Astro</a></h4>
+			      </td>
+			      <td>
+				    <h4><a href="https://react.dev/">React</a></h4>
+				  </td>
+			      <td>
+				    <h4><a href="https://vuejs.org/">VueJS</a></h4>
+				  </td>
+			      <td>
+				    <h4><a href="https://angular.dev/">Angular</a></h4>
+				  </td>
+			    </tr>
+			    <tr>
+			      <td>
+			        <img src="./assets/svg/node.svg" alt="NodeJS logo" style="height:20px">  
+			      </td>
+			      <td>
+			        <img src="./assets/svg/chrome.svg" alt="Google Chrome logo" style="height:20px">  
+			      </td>
+			      <td>
+			        <img src="./assets/svg/azure.svg" alt="Microsoft Azure logo" style="height:20px">  
+			      </td>
+			      <td>
+			        <img src="./assets/svg/ruby.svg" alt="Ruby logo" style="height:20px">  
+			      </td>
+			    </tr>
+			    <tr>
+			      <td>
+				    <h4><a href="https://nodejs.org/en">NodeJS</a></h4>
+				  </td>
+			      <td>
+				    <h4><a href="https://www.google.com/intl/en_au/chrome/">Google Chrome</a></h4>
+				  </td>
+			      <td>
+				    <h4><a href="https://azure.microsoft.com/en-ca">Microsoft Azure</a></h4>
+				  </td>
+			      <td>
+				    <h4><a href="https://www.ruby-lang.org/en/">Ruby</a></h4>
+				  </td>
+			    </tr>
+			    <tr>
+			      <td>
+			        <img src="./assets/svg/svelte.svg" alt="Svelte logo" style="height:20px">  
+			      </td>
+			      <td>
+			        <img src="./assets/svg/solid.svg" alt="SolidJS logo" style="height:20px">  
+			      </td>
+			      <td>
+			        <img src="./assets/svg/voidzero.svg" alt="Void(0) logo" style="height:20px">  
+			      </td>
+			      <td>
+			        <img src="./assets/svg/volar.svg" alt="VolarJS logo" style="height:20px">  
+			      </td>
+			    </tr>
+			    <tr>
+			      <td>
+				    <h4><a href="https://svelte.dev/">Svelte</a></h4>
+				  </td>
+			      <td>
+				    <h4><a href="https://www.solidjs.com/">SolidJS</a></h4>
+				  </td>
+			      <td>
+				    <h4><a href="https://voidzero.dev/">Void(0)</a></h4>
+				  </td>
+			      <td>
+				    <h4><a href="https://volarjs.dev/">VolaJS</a></h4>
+				  </td>
+			    </tr>
+			    <tr>
+			      <td>
+			        <img src="./assets/svg/laravel.svg" alt="" style="height:20px">  
+			      </td>
+			      <td>
+			        <img src="./assets/svg/nuxt.svg" alt="Nuxt logo" style="height:20px">  
+			      </td>
+			      <td>
+			        <img src="./assets/svg/oxc.svg" alt="OXC logo" style="height:20px">
+			      </td>
+			      <td>
+			        <img src="./assets/svg/remix.svg" alt="Remix logo" style="height:20px">
+			      </td>
+			    </tr>
+			    <tr>
+			      <td>
+				    <h4><a href="https://laravel.com/">Laravel</a></h4>
+				  </td>
+			      <td>
+				    <h4><a href="https://nuxt.com/">Nuxt</a></h4>
+				  </td>
+			      <td>
+				    <h4><a href="https://oxc.rs/">OXC</a></h4>
+				  </td>
+			      <td>
+				    <h4><a href="https://remix.run/">Remix</a></h4>
+				  </td>
+			    </tr>
+			    <tr>
+			      <td>
+			        <img src="./assets/svg/shopify.svg" alt="Shopify logo" style="height:20px;">  
+			      </td>
+			        <img src="./assets/svg/vitest.svg" alt="Vitest logo" style="height:20px;">
+			      <td>
+			        <img src="./assets/svg/unjs.svg" alt="UnJS logo" style="height:20px;">
+			      </td>
+			      <td>
+  			        <img src="./assets/svg/vitepress.svg" alt="VitePress logo" style="height:20px;">
+			      </td>
+			    </tr>
+			    <tr>
+			      <td>
+				    <h4><a href="https://www.shopify.com/au">Shopify</a></h4>
+				  </td>
+			      <td>
+				    <h4><a href="https://vitest.dev/">Vitest</a></h4>
+				  </td>
+			      <td>
+				    <h4><a href="https://unjs.io/">UnJS</a></h4>
+				  </td>
+			      <td>
+				    <h4><a href="https://vitepress.dev/">VitePress</a></h4>
+				  </td>
+			  	</tr>
+		      </table>
+			  <p>And many more!
+			  <br><br>
+			  A full list of speakers can be found <a href="https://viteconf.org/24/speakers">here</a>.
+		    </blockquote>
           </details>
         </td>
       </tr>
     </table>
   </blockquote>
+  <!--September 2024-->
+  <blockquote>
+	<h3 align="right">September 2024</h3>
+    <table style="table-layout: fixed;">
+	  <tr>
+	    <th colspan=2><h4 align='center'>National Missing Persons Hackathon 2024</h4></th>
+	  </tr>
+      <tr>
+        <td>
+		  <img src="./assets/img/NMPH2024 - Participant.png" 
+		  	   alt="National Missing Persons Hackathon 2024 Participant Badge." 
+			   style="max-width:250px; min-width:150px; width:150px; max-height:250px; min-height:150px; height: 150px;"
+			/>
+		</td>
+        <td>
+	      <p>Participant in the National Missing Persons Hackathon 2024.<br><br><b>Ranking 7th Place.</b>
+		  </p>
+		</td>
+	  </tr>
+	  <tr colspan=2>
+	  	<td>
+		  <details>
+		    <summary>About Event</summary>
+			<p>The <b>National Missing Persons Hackathon</b> is a non-theoretical capture the flag (CTP) competition where participants source intelligence and potentials leads on real missing person cases during a 6 hour event.
+			<br><br>
+			Participants are awarded points based on the number of submissions, which could include recent photos, last know locations, social media accounts, etc.
+			<br><br>
+			This year my team <samp>(consisting of 2 members)</samp> <b>placed 7th</b> against <b>212</b> other teams.<br>We were also able to source recent information indicating the whereabouts of a person who had been evading police for roughly 10 years.
+			<br><br>
+			<sub>For more information,<br>check out the <a href="https://www.missingpersonshackathon.com.au/">official NMPH website.</a></sub>
+			</p>
+		  </details>
+        </td>
+      </tr>
+    </table>
+  </blockquote>
+  <br>
+  <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center"></img>
   <blockquote>
     <h4>Trophies</h4>
     <img src="https://github-profile-trophy.vercel.app/?username=Nathan-Bransby-NMT">
   </blockquote>
-	<hr>
-	<blockquote>
-		<h4>Activity</h4>
-		<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan-Bransby-NMT">
-	</blockquote>
+  <br>
+  <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center">
+  <br>
+  <blockquote>
+    <h4>Activity</h4>
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan-Bransby-NMT">
+  </blockquote>
 </div>
-<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center"></img>
-<p align="center">
-<div style="margin: auto; width: 80%;">
-  <table style="border: 1px solid #000; border-collapse: collapse; width: 100%;">
-    <tr>
-      <td style="border: 1px solid #000; text-align: center; padding: 10px;" 
-          colspan="7">
-          <table>
-            <tr>
-              <td>
-		<div width=790 min-width=790 height=200 min-height=200>
-		  <a hight=200 min-width=280 width=280 max-width=280 align="center" href=""><h3>Filter Stats:</h3></a>
-		  <a  min-width=504 width=504 hight=200 min-width=280 align="center" href="https://github.com/Nathan-Bransby-NMT/github-readme-stats">
-	            <img src="https://github-readme-stats.vercel.app/api/?username=Nathan-Bransby-NMT&theme=neon&show_icons=true&count_private=true"></img>
-		  </a>
-		  <a min-width=504 width=504 hight=200 min-width=280 align="center" href="https://github.com/Nathan-Bransby-NMT">
-		    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Bransby-NMT&theme=neon"></img>
-		  </a>
-		</div>
-                <details>
-                  <summary><h3><samp>[Expand Menu]</samp></h3></summary><!--<a height=200 align="center" href=""><img src="./assets/svg/burger_menu.svg"></img></a></summary>-->
-                  <table>
-		    <tr>
-		      <td>
-			<details>
-			  <summary><h2>Education</h2></summary>
-			  <table>
-			    <tr>
-			      <th><h4><samp>North Metropolitan TAFE - 2024 [Semester </small> 1 - 2]<br>ICT50220 Diploma of Advanced Programming (Specialism) & Diploma of Back-End Web Development.</samp></h4></th>
-			    </tr>
-                    	    <tr>
-			      <td>
-				<div >
-				  <a href="https://gist.github.com/Nathan-Bransby-NMT/Dual-Diploma-2024">
-				    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Bransby-NMT&repo=Dual-Diploma-2024&theme=gotham" 
-				         alt="North Metropolian - Dual Diploma 2024 (Back-End Web Development and Advanced Programming)">
-				    </img>
-				  </a>
-				  <a href="https://gist.github.com/Nathan-Bransby-NMT/Dual-Diploma-2024">
-				    <img height=200 align="center" 
-					 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Bransby-NMT&layout=compact&repo=Dual-Diploma-2024&langs_count=10&theme=gotham"
-				         alt="North Metropolian - Dual Diploma 2024 (Back-End Web Development and Advanced Programming)">
-				    </img>
-				  </a>
-	      		        </div>
-		      	      </td>
-		            </tr>
-			  </table>
-			</details>
-		      </td>
-		    </tr>
-                  </table>
-                  <table>
-                    <tr>
-		      <td>
-		      	<details>
-			  <summary><h2>Projects</h2>
-			  </summary>
-			  <table>
-			    <tr>
-			      <th width=100% height=200 align="center">
-				<h4><samp>OcrRoo - [2024 - Present]</samp></h4>
-				<p><samp>OcrRoo is an AI Powered OCR Code Recognition & Extraction Tool that is designed to assist visually impaired<br>
-				   developers in interpreting video content such as Youtube programming tutorials.<br>
-				   The user uploads a video to the program, where our AI text extraction model analyses over the video<br>
-				   , identifying extractable 
-				   code.</samp>
-				</p>
-			      </th>
-			    </tr>
-			    <tr>
-			      <td>
-			        <div>
-				  <a href="https://gist.github.com/Nathan-Bransby-NMT/dip-programming-prj-advanced-gui-evolve">
-				    <img height="auto" width=504 max-width=504 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nathan-Bransby-NMT&repo=dip-programming-prj-advanced-gui-evolve&theme=gotham"
-				         alt="OcrRoo - Repository">
-				    </img>
-				  </a>
-				  <a href="https://gist.github.com/Nathan-Bransby-NMT/dip-programming-prj-advanced-gui-evolve">
-				    <img height=200 max-width=280 width=280 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Bransby-NMT&layout=compact&repo=dip-programming-prj-advanced-gui-evolve&exclude_repo=Dual-Diploma-2024,MFGJ-2023-TopDown-Adventure,DuckDrivenTesting&langs_count=10&theme=gotham" 
-				         alt="North Metropolian - OcrRoo Stats">
-				    </img>
-				  </a>
-	      		        </div>
-			      </td>
-			    </tr>
-			  </table>
-			</details>
-		      </td>
-		    </tr>
-                  </table>
-                </details>
-              </td>
-            </tr>
-          </table>
-      </td>
-    </tr>
-  </table>
-</div>
-</p>
