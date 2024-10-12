@@ -315,7 +315,7 @@ Let’s create something awesome together!
   <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center"></img>
   <blockquote>
     <h3 allign='center'>Trophies</h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=Nathan-Bransby-NMT">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nathan-Bransby-NMT&column=3&margin-w=15&margin-h=15&theme=radical">
   </blockquote>
   <br>
   <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center">
