@@ -83,8 +83,8 @@ Let’s create something awesome together!
 			  <h4>Key-Topics</h4>
 			  <ul>
 			    <li>In-depth sessions on AI</li>
-				<li>Web Development with Google technologies=</li>
-				<li>The latest cloud-based innovations</li>
+			  	<li>Web Development with Google technologies</li>
+					<li>The latest cloud-based innovations</li>
 			  </ul>
 			  Find out <a href="https://gdg.community.dev/events/details/google-gdg-perth-presents-devfest-perth-ai-web-cloud-amp-navigating-your-career/">more</a> about this event.
 			  </p>
