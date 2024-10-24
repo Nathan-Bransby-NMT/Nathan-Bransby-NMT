@@ -43,7 +43,7 @@ Let’s create something awesome together!
 	<h2 align='left'>My Stack</h2>
  <details>
 	 <h4 align='right'>Languages</h4>
-  <summary><samp>Expand</samp></summary>
+  <summary><samp>Languages</samp></summary>
   	<p>
 		 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
 		 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -64,9 +64,8 @@ Let’s create something awesome together!
 	 </p>
  </details>
  <details>
-  <summary>
-   	<h4 align="center">Back-End</h4>
-  </summary>
+  <h4 align="right">Back-End</h4>
+  <summary><samp>Back-End</samp></summary>
 	<p>
 		<img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
 		<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
@@ -75,7 +74,10 @@ Let’s create something awesome together!
 		<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Posrgres">
 		<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 	</p>
-	<h4 align="center">Frameworks & Libraries</h4>
+ </details>
+ <details>
+	<h4 align="right">Frameworks & Libraries</h4>
+  <summary><samp>Framework & Libraries</samp></summary>
  	<p>
 		<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="dotnet">
 		<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
@@ -114,9 +116,8 @@ Let’s create something awesome together!
 	</p>
  </details>
  <details>
-  <summary>
-   <h4 align="center">Art & Design</h4>
-  </summary>
+   <h4 align="right">Art & Design</h4>
+  <summary><samp>Art & Design</samp></summary>
 	<p>
 		<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom">
 		<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop">
