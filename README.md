@@ -42,9 +42,8 @@ Let’s create something awesome together!
 <p>
 	<h2 align='left'>My Stack</h2>
  <details>
-  <summary>
-	   <h4 align='center'>Languages</h4>
-  </summary>
+	 <h4 align='right'>Languages</h4>
+  <summary><samp>Expand</samp></summary>
   	<p>
 		 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
 		 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
