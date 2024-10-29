@@ -1,0 +1,42 @@
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    /* Define text style */
+    .typing-text {
+      font-family: Arial, sans-serif;
+      font-size: 32px;
+      font-weight: bold;
+      fill: url(#animatedGradient); /* Apply the animated gradient */
+    }
+
+    /* Typing effect animation */
+    @keyframes typing {
+      0% { stroke-dasharray: 0 100; }
+      50% { stroke-dasharray: 50 50; }
+      100% { stroke-dasharray: 100 0; }
+    }
+
+    .typing-text {
+      stroke: #000;
+      stroke-width: 1px;
+      stroke-dasharray: 0 100;
+      animation: typing 4s steps(30) infinite, gradient 20s ease infinite;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+  </style>
+
+  <!-- Gradient definition with animation -->
+  <defs>
+    <linearGradient id="animatedGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ffca">
+        <animate attributeName="stop-color" values="#00ffca;#ff0066;#00ffca" dur="20s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#ff0066">
+        <animate attributeName="stop-color" values="#ff0066;#00ffca;#ff0066" dur="20s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Text element with typing effect -->
+  <text x="10" y="50" class="typing-text">Nathan-Bransby-NMT</text>
+</svg>
