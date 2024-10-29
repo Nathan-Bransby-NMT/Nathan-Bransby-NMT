@@ -1,0 +1,50 @@
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    svg {
+      width: 110vw;
+      position: fixed;
+      top: -5px;
+      transform: rotate(360deg);
+      overflow: visible;
+    }
+
+    .wave {
+      animation: wave 3s linear infinite;
+      fill: url(#animatedGradient); /* Use the animated gradient */
+    }
+
+    #wave2 {
+      animation-duration: 6s;
+      animation-direction: reverse;
+      opacity: .9;
+    }
+
+    #wave3 {
+      animation-duration: 3s;
+      opacity: .6;
+    }
+
+    @keyframes wave {
+      to { transform: translateX(-100%); }
+    }
+  </style>
+
+  <defs> 
+    <!-- Define the animated gradient -->
+    <linearGradient id="animatedGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ffca">
+        <animate attributeName="stop-color" values="#00ffca;#ff0066;#00ffca" dur="20s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#ff0066">
+        <animate attributeName="stop-color" values="#ff0066;#00ffca;#ff0066" dur="20s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Path definition for the wave -->
+    <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
+  </defs> 
+
+  <!-- Use instances with animated gradient fill -->
+  <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0"></use>
+  <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2"></use> 
+</svg>
