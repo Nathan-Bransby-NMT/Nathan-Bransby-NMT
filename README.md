@@ -37,7 +37,7 @@ Always exploring the latest in tech to build innovative, scalable projects.
 Let’s create something awesome together!
 </p>
 <br>
-<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="left">
+<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width="200%" align="left">
 <br>
 <p>
 	<h2 align='left'>My Stack</h2>
@@ -129,7 +129,7 @@ Let’s create something awesome together!
  </details>
 </p>
 <br>
-<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="left">
+<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width="200%" align="left">
 <br>
 <h2 align='right'>Github Statistics</h2>
 <table>
@@ -147,13 +147,13 @@ Let’s create something awesome together!
   </tr>
 </table>
 <br>
-<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="left">
+<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width="200%" align="left">
 <br>
 <div>
   <h2>Recent Events</h2>
+	<h3 align="right"><samp>November 2024</samp></h3>
   <blockquote>
   <!--November 2024-->
-	<h3 align="right"><samp>November 2024</samp></h3>
     <table style="table-layout: fixed;">
 	  <tr>
 	    <th><h4 align="center">Google DevFest 2024</h4></th>
@@ -186,17 +186,48 @@ Let’s create something awesome together!
 	  </tr>
 	</table>
   </blockquote>
+	<br>
   <!--October 2024-->
+	<h3 align='right'><samp>October 2024<samp></h3>
   <blockquote>
-    <h3 align='right'><samp>October 2024<samp></h3>
-    <table style="table-layout: fixed;">
+		<table style="table-layout: fixed;">
+			<tr>
+				<th><h4 align='center'>GitHub Universe 2024<samp>(virtual attendance)</samp></h4></th>
+			</tr>
+			<tr>
+				<td align='center'>
+					<img src="./assets/img/github-universe-24.png">
+				</td>
+			</tr>
+			<tr>
+				<td>
+				<details>
+					<summary>About Event</summary>
+					<blockquote>
+						<p>
+							Attended the 10 year anniversary of <a href="https://reg.githubuniverse.com/flow/github/universe24/attendee-portal/page/speakers">GitHub Universe</a> virtually.
+						</p>
+					</blockquote>
+				</details>
+				</td>
+			</tr>
+		</table>
+		<p align="center">
+			<img src="./assets/svg/angles-down-solid.svg" width=20px>
+			<img src="./assets/svg/blank300.svg" width=100px style='padding:20px'>
+			<img src="./assets/svg/angles-down-solid.svg" width=30px>
+			<img src="./assets/svg/blank300.svg" width=100px style='padding:20px'>
+			<img src="./assets/svg/angles-down-solid.svg" width=20px>
+		</p>
+		<br>
+    <table style="table-layout: fixed;" width:100%>
       <tr>
-	    <th><h4 align='center'>ViteConf 2024<samp>(virtual attendance)</samp></h4>
+	    <th width=1000vw><h4 align='center'>ViteConf 2024<samp>(virtual attendance)</samp></h4>
 	  </tr>
 	  <tr>
         <td align='center'>
-          <img src="./assets/img/ViteConf24.png" 
-		  	   		 style="height: 280px; max-height: 280px; min-height: 200px; min-width:350px" 
+					<img src="./assets/img/ViteConf24.png" 
+		  	   		 style="min-width:50%; width:475px" 
 							 align='center'>
         </td>
 	  </tr>
@@ -364,17 +395,18 @@ Let’s create something awesome together!
       </tr>
     </table>
   </blockquote>
+	<br>
   <!--September 2024-->
-  <blockquote>
 	<h3 align="right"><samp>September 2024</samp></h3>
+  <blockquote>
     <table style="table-layout: fixed;">
 	  <tr>
-	    <th colspan=2><h4 align='center'>National Missing Persons Hackathon 2024</h4></th>
+	    <th colspan=2 width=1000vw><h4 align='center'>National Missing Persons Hackathon 2024</h4></th>
 	  </tr>
       <tr>
         <td width=30% align='center'>
 		  <img src="./assets/img/NMPH2024 - Participant.png" 
-			     style="max-width:250px; min-width:250px; width:150px; max-height:250px; min-height:150px; height: 150px;"
+			     style="width:150px;"
 		  	   alt="National Missing Persons Hackathon 2024 Participant Badge." 
 					 align='center'>
 		</td>
@@ -404,13 +436,13 @@ Let’s create something awesome together!
     </table>
   </blockquote>
   <br>
-  <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center"></img>
+  <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width=200% align="center">
   <blockquote>
     <h3 allign='center'>Trophies</h3>
     <img src="https://github-profile-trophy.vercel.app/?username=Nathan-Bransby-NMT&column=3&margin-w=15&margin-h=15&theme=radical">
   </blockquote>
   <br>
-  <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=25 min-width="200%" align="center">
+  <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width=200% align="center">
   <br>
   <blockquote>
     <h3 align='center'>Activity</h3>
