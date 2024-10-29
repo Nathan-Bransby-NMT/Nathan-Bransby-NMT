@@ -37,7 +37,8 @@ Always exploring the latest in tech to build innovative, scalable projects.
 Let’s create something awesome together!
 </p>
 <br>
-<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width="200%" align="left">
+<img src="./assets/svg/footer-wave.svg" width=1000px>
+<!--img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width="200%" align="left"-->
 <br>
 <p>
 	<h2 align='left'>My Stack</h2>
