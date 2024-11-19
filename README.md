@@ -186,6 +186,52 @@ Let’s create something awesome together!
 		</td>
 	  </tr>
 	</table>
+	<p align="center">
+		<img src="./assets/svg/angles-down-solid.svg" width=20px>
+		<img src="./assets/svg/blank300.svg" width=100px style='padding:20px'>
+		<img src="./assets/svg/angles-down-solid.svg" width=30px>
+		<img src="./assets/svg/blank300.svg" width=100px style='padding:20px'>
+		<img src="./assets/svg/angles-down-solid.svg" width=20px>
+	</p>
+	<br>
+    <table style="table-layout: fixed;">
+	  <tr>
+	    <th><h4 align="center">DDD Perth 2024</h4></th>
+	  </tr>
+	  <tr>
+	    <td>
+		  <img src="./assets/svg/ddd-perth.svg">
+		</td>
+      </tr>
+	  <tr>
+	    <td>
+		  <details>
+		    <summary>About Event</summary>
+			<blockquote>
+			  <p>Attended the 10th Anniversary of <a href="https://dddperth.com">DDD Perth</a>.
+			  <br><br>
+			  DDD Perth 2024 marked a significant milestone as the conference celebrated its 10th anniversary, bringing Perth's largest community-run tech conference back to <a href="https://optusstadium.com.au">Optus Stadium</a> on Saturday, November 16th, 2024
+			  <br>
+			  <h4>Keynote Speaker</h4>
+			  <p>
+			    This years keynote speaker was <a href="https://www.linkedin.com/in/katjasrz/">Ekaterina Sirazitdinova</a>, a Senior Deep Learning Scientist at <a href="https://www.nvidia.com">NVIDIA</a>. Ekaterina delivered an amazing talk about the latest advances in multimodal generative AI, explaining the inner workings of their systems whilst exploring key concepts and techniques involved. This was a personal highlight of the day for me, with this being to debut appearance in Australia all the way from Munich, Germany, it was a great honour to connect with her and learn from one of the best minds advancing AI.
+			  </p>
+			  <h4>Other Highlights</h4>
+			  <p>
+			  	Given the size of the event, there were definetly some clashes between talks that I wanted to see, which ment I had to make some tough choices on who to see. However that being said, here are some other personal highlights from the talks I was able to see:
+				<ul>
+				  <li><b>Neuroscience Meets Cybersecurity</b>: Enhancing IT Operations Through Brain Science<br><sub>Presented by: <a href="https://www.linkedin.com/in/vannessavanbeek/">Vannessa Van Beek</a></sub></li>
+				  <li><b>Containerized Developer Environments</b>: Helping Devs help Charities<br><sub>Presented by: <a href="https://www.linkedin.com/in/dylancto/">Dylan To</a> and <a href="https://www.linkedin.com/in/frinze-erin-lapuz/">Frinze Lapuz</a></sub></li>
+				  <li><b>Overcoming Your Imposter Syndrome with GitHub Copilot</b><br><sub>Presented by: <a href="">Michelle Sandford</a></sub></li>
+				</ul>
+			  </p>
+			  Find out <a href="https://dddperth.com">more</a> about this event.
+			  </p>
+			</blockquote>
+		  </details>
+		</td>
+	  </tr>
+	</table>
   </blockquote>
 	<br>
   <!--October 2024-->

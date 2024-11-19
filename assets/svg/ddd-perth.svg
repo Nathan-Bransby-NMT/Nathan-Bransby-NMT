@@ -1,7 +1,14 @@
 <svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
-    
+    <defs>
+      <!-- Navy blue linear gradient -->
+      <linearGradient id="navyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#002055"/>
+        <stop offset="100%" stop-color="#000000"/>
+      </linearGradient>
+    </defs>
+
     <!-- Navy blue background -->
-    <rect width="1200" height="200" fill="#002033" />
+    <rect width="1200" height="200" fill="url(#navyGradient)" />
 
     <!-- Diamond -->
     <g id="SVGRepo_bgCarrier" stroke-width="0" />
