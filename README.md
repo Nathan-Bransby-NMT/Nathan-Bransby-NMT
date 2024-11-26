@@ -140,7 +140,7 @@ Let’s create something awesome together!
 					 style="max-width:370px; min-height:140px"
 					 align='left'
 					 width=390px>
-  	  <img src="https://github-readme-stats.vercel.app/api/?username=Nathan-Bransby-NMT&theme=dark&show_icons=true&count_private=true" 
+  	  <img src="https://github-readme-stats.vercel.app/api/?username=Nathan-Bransby-NMT&theme=neon&show_icons=true&count_private=true" 
 					 style="max-width:350px; max-height:150"
 					 align='right' 
 					 width=370px>
