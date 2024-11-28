@@ -14,7 +14,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.nlb-software.dev">
-	<img src="https://img.shields.io/badge/Visit%20my%20portfolio-0099ff?&social&logoSize=auto&logo=shields.io&logoColor=white">
+	<img src="https://img.shields.io/badge/Visit%20my%20portfolio-0099ff?&social&logoSize=auto&logoColor=white">
   </a>
 </p>
 <hr>
