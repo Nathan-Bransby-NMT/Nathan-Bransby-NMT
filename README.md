@@ -12,6 +12,10 @@
   <a href=https://brnsb.eth.limo>
 	<img src="https://img.shields.io/badge/brnsb.eth-0099ff?&social&logoSize=auto&logo=ethereum&logoColor=white">
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.nlb-software.dev">
+	<img src="https://img.shields.io/badge/Visit%20my%20portfolio-0099ff?&social&logoSize=auto&logo=shields.io&logoColor=white">
+  </a>
 </p>
 <hr>
 <!--Main-Section-->
