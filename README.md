@@ -19,6 +19,10 @@
 <img src="./assets/svg/141193650.svg" width=200px align="left" alt="image" />
 <p align="left">
   &nbsp;&nbsp;
+  <a href="https://github.com/Nathan-Bransby-NMT">
+      <img src="https://komarev.com/ghpvc/?username=Nathan-Bransby-NMT&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Nathan-Bransby-NMT?tab=repositories">
 	<img src="https://img.shields.io/github/stars/Nathan-Bransby-NMT?style=flat-square&label=Total+Stars" >
   </a>
