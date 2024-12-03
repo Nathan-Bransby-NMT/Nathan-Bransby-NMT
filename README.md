@@ -144,14 +144,18 @@ Let’s create something awesome together!
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=Nathan-Bransby1&theme=neon"  
-					 style="max-width:370px; min-height:140px"
-					 align='left'
-					 width=390px>
-  	  <img src="https://github-readme-stats.vercel.app/api/?username=Nathan-Bransby-NMT&theme=neon&show_icons=true&count_private=true" 
-					 style="max-width:350px; max-height:150"
-					 align='right' 
-					 width=370px>
+      <a href="https://git.io/streak-stats">
+      	<img src="https://streak-stats.demolab.com/?user=Nathan-Bransby-NMT&theme=dark" 
+	     alt="GitHub Streak" 
+	     style="max-width:350px; max-height:150"
+	     align='right' 
+	     width=370px 
+	/>
+      </a>
+  	<img src="https://github-readme-stats.vercel.app/api/?username=Nathan-Bransby-NMT&theme=neon&show_icons=true&count_private=true" 
+	     style="max-width:350px; max-height:150"
+	     align='right' 
+	     width=370px>
 	  </td>
   </tr>
 </table>
