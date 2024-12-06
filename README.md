@@ -145,7 +145,7 @@ Let’s create something awesome together!
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
-      	<img src="https://streak-stats.demolab.com/?user=Nathan-Bransby-NMT&theme=dark" 
+      	<img src="https://streak-stats.demolab.com/?user=Nathan-Bransby-NMT&theme=neon" 
 	     alt="GitHub Streak" 
 	     style="max-width:350px; max-height:150"
 	     align='right' 
