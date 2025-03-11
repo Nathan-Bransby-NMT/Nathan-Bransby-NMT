@@ -41,7 +41,7 @@
     Hi I'm Nathan Bransby, a Full Stack Software Engineer from Australia who is passionate about open-source software. I use my knowledge and expertise in software development to give back to the community.
   <hr>
 </p>
-<br>
+<br><br><br>
 <table align='right'>
     <tr>
       <td>
@@ -92,7 +92,7 @@
   <samp>I bring technical expertise and community leadership together to create meaningful change. My professional work includes the development of an adaptable bushfire alert system for rural communities with zero mobile coverage and creating accessibility tools for visually impaired programmers.</samp>
 </p>
 <p align='left'>
-	<hr>
+	<hr><br><br>
   <samp>
     Please consider <a href="https://github.com/sponsors/Nathan-Bransby-NMT/">supporting</a> my work, so that I can continue to dedicate my time to giving back to the community<br><br>
     I'm always open to new opportunities and eager to collaborate with like-minded individuals who share my passion for inclusive technology and community-driven innovation.
@@ -202,7 +202,7 @@
 <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width="200%" align="left">
 <br>
 <h2 align='right'>Github Statistics</h2>
-<table>
+<table align='center'>
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
