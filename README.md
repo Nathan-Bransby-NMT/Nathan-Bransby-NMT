@@ -42,12 +42,7 @@
   <hr>
 </p>
 <br>
-<p align='left'>
-  <samp>My work focuses on removing barriers to technology participation, creating structured pathways for neurodiverse individuals, and building inclusive communities that celebrate diverse perspectives in open source.</samp>
-</p>
-<!---->
-<p align='center'>
-  <table align='center'>
+<table align='right'>
     <tr>
       <td>
         <samp>
@@ -84,69 +79,20 @@
 	<samp>
 	💖Founder, Organiser & Mentor💖<br> 
     	<sub><b>Organisation</b>:</sub> <a href="https://github.com/PyVersify">PyVersify</a>
-		
+	</samp>		
       </td>
     </tr>
   </table>
-  <samp>
-    🐍Oceanic Representative for Diversity & Inclusion🐍<br> 
-    <sub><b>Organisation</b>:</sub> <a href="https://github.com/psf">Python Software Foundation</a>
-    <br><br>
-    ✨Director of People & Conference Content Sub-Committee Member✨<br><sub><b>Organisation</b>:</sub> <a href="https://dddperth.com">DDD Perth</a> 
-    <sub><i>- Australia's largest annual tech conference.</i></sub>
-    <br><br>
-    🦘Membership Workgroup & Founding Member🦘<br><sub><b>Organisation</b>:</sub> <a href="https://github.com/Python-Australia">Python Australia.</a>
-    <br><br>
-    👨‍⚖️Code of Conduct Committee Team Member👨‍⚖️<br>
-    <sub><b>Organisation</b>:</sub> <a href="https://www.pythonwa.com/">Python WA</a>
-    <br><br>
-    💖Founder, Organiser & Mentor💖<br> 
-    <sub><b>Organisation</b>:</sub> <a href="https://github.com/PyVersify">PyVersify</a>
-  </samp>
-</p>
-<!---->
-<br>
-<p align='right'>
-<ul>
-  <li>
-    <samp>
-      ✨Director of Event Logistics/Volunteers & Conference Content Sub-Committee Member✨<br>
-      &nbsp;&nbsp;<b>Organisation</b>: <a href="https://dddperth.com"><code>DDD Perth</code></a> 
-      <sub><i>- Australia's largest annual tech conference.</i></sub>
-    </samp>
-  </li>
-  <li>
-    <samp>
-      👨‍⚖️Code of Conduct Team Member👨‍⚖️<br>
-      &nbsp;&nbsp;<b>Organisation</b>: <a href="https://www.pythonwa.com/">Python WA</a>
-    </samp>
-  </li>
-  <li>
-    <samp>
-      🦘Founding Member & Membership Workgroup🦘<br>
-      &nbsp;&nbsp;<b>Organisation</b>: <a href="https://github.com/Python-Australia">Python Australia.</a>
-    </samp>
-  </li>
-  <li>
-    <samp>
-      🐍Oceanic Representative for Diversity & Inclusion🐍<br> 
-      &nbsp;&nbsp;<b>Organisation</b>: <a href="https://github.com/psf">Python Software Foundation</a>
-    </samp>
-  </li>
-  <li>
-    <samp>
-      💖Founder, Organiser & Mentor💖<br> 
-      &nbsp;&nbsp;<b>Organisation</b>: <a href="https://github.com/PyVersify">PyVersify</a>
-    </samp>
-  </li>
-</ul>
-</p>
-<br>
 <p align='left'>
+	<br>
+  <samp>My work focuses on removing barriers to technology participation, creating structured pathways for neurodiverse individuals, and building inclusive communities that celebrate diverse perspectives in open source.</samp>
+</p>
+<p align='center'>
+	<hr>
   <samp>I bring technical expertise and community leadership together to create meaningful change. My professional work includes the development of an adaptable bushfire alert system for rural communities with zero mobile coverage and creating accessibility tools for visually impaired programmers.</samp>
 </p>
-<br>
 <p align='left'>
+	<hr>
   <samp>
     Please consider <a href="https://github.com/sponsors/Nathan-Bransby-NMT/">supporting</a> my work, so that I can continue to dedicate my time to giving back to the community<br><br>
     I'm always open to new opportunities and eager to collaborate with like-minded individuals who share my passion for inclusive technology and community-driven innovation.
@@ -154,7 +100,6 @@
   </samp>
 </p>
 <br>
-
 <p align='right'>
   <a href = "mailto:brnsb.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathan-bransby" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
