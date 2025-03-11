@@ -84,7 +84,7 @@
     </tr>
   </table>
 <p align='left'>
-	<br>
+	<hr>
   <samp>My work focuses on removing barriers to technology participation, creating structured pathways for neurodiverse individuals, and building inclusive communities that celebrate diverse perspectives in open source.</samp>
 </p>
 <p align='center'>
