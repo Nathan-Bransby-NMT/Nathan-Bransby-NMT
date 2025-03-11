@@ -1,5 +1,5 @@
 <p align="center">
-	<img width=1000px hight=200 min-width="200%" align="center" src="./assets/svg/readme-banner.svg" style="border-radius:50px; scale:1.1"></img>
+	<img width=1000px hight=200 min-width="200%" align="center" src="./assets/svg/readme-banner.svg" alt="Banner displaying Nathan-Bransby-NMT, that changes colors." style="border-radius:50px; scale:1.1"></img>
 </p>
 
 <p align="right">
@@ -9,7 +9,7 @@
 	<img src="https://img.shields.io/github/sponsors/Nathan-Bransby-NMT?style=plastic&logoSize=auto&logo=GitHub-Sponsors&logoColor=#white">
   </a>
   &nbsp;&nbsp;
-  <a href=https://brnsb.eth.limo>
+  <a href=https://brnsb.eth>
 	<img src="https://img.shields.io/badge/brnsb.eth-0099ff?&social&logoSize=auto&logo=ethereum&logoColor=white">
   </a>
   &nbsp;&nbsp;
@@ -18,10 +18,9 @@
   </a>
 </p>
 <hr>
-<!--Main-Section-->
 <br>
 <img src="./assets/svg/141193650.svg" width=200px align="left" alt="image" />
-<p align="left">
+<p align="center">
   &nbsp;&nbsp;
   <a href="https://github.com/Nathan-Bransby-NMT">
       <img src="https://komarev.com/ghpvc/?username=Nathan-Bransby-NMT&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -37,12 +36,129 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Nathan-Bransby-NMT" >	
 </p>
+<p align='right'>
+  <hr>
+    Hi I'm Nathan Bransby, a Full Stack Software Engineer from Australia who is passionate about open-source software. I use my knowledge and expertise in software development to give back to the community.
+  <hr>
+</p>
+<br>
+<p align='left'>
+  <samp>My work focuses on removing barriers to technology participation, creating structured pathways for neurodiverse individuals, and building inclusive communities that celebrate diverse perspectives in open source.</samp>
+</p>
+<!---->
 <p align='center'>
-Full-stack developer with a passion for crafting end-to-end solutions.<br>
-I love turning complex problems into simple, elegant code <br>whether it's front-end design or back-end architecture.<br>
-Always exploring the latest in tech to build innovative, scalable projects.
-<br><br>
-Let’s create something awesome together!
+  <table align='center'>
+    <tr>
+      <td>
+        <samp>
+          🐍Oceanic Representative for Diversity & Inclusion🐍<br> 
+          <sub><b>Organisation</b>:</sub> <a href="https://github.com/psf">Python Software Foundation</a>
+        </samp>
+      </td>
+    </tr>
+    <tr>
+      <td>
+	<samp>
+	✨Director of People & Conference Content Sub-Committee Member✨<br><sub><b>Organisation</b>:</sub> <a href="https://dddperth.com">DDD Perth</a> 
+	<sub><i>- Australia's largest annual tech conference.</i></sub>
+	</samp>
+      </td>
+    </tr>
+    <tr>
+      <td>
+	<samp>
+	🦘Membership Workgroup & Founding Member🦘<br><sub><b>Organisation</b>:</sub> <a href="https://github.com/Python-Australia">Python Australia.</a>
+	</samp>
+      </td>
+    </tr>
+    <tr>
+      <td>
+	<samp>
+	👨‍⚖️Code of Conduct Committee Team Member👨‍⚖️<br>
+    	<sub><b>Organisation</b>:</sub> <a href="https://www.pythonwa.com/">Python WA</a>
+	</samp>
+      </td>
+    </tr>
+    <tr>
+      <td>
+	<samp>
+	💖Founder, Organiser & Mentor💖<br> 
+    	<sub><b>Organisation</b>:</sub> <a href="https://github.com/PyVersify">PyVersify</a>
+		
+      </td>
+    </tr>
+  </table>
+  <samp>
+    🐍Oceanic Representative for Diversity & Inclusion🐍<br> 
+    <sub><b>Organisation</b>:</sub> <a href="https://github.com/psf">Python Software Foundation</a>
+    <br><br>
+    ✨Director of People & Conference Content Sub-Committee Member✨<br><sub><b>Organisation</b>:</sub> <a href="https://dddperth.com">DDD Perth</a> 
+    <sub><i>- Australia's largest annual tech conference.</i></sub>
+    <br><br>
+    🦘Membership Workgroup & Founding Member🦘<br><sub><b>Organisation</b>:</sub> <a href="https://github.com/Python-Australia">Python Australia.</a>
+    <br><br>
+    👨‍⚖️Code of Conduct Committee Team Member👨‍⚖️<br>
+    <sub><b>Organisation</b>:</sub> <a href="https://www.pythonwa.com/">Python WA</a>
+    <br><br>
+    💖Founder, Organiser & Mentor💖<br> 
+    <sub><b>Organisation</b>:</sub> <a href="https://github.com/PyVersify">PyVersify</a>
+  </samp>
+</p>
+<!---->
+<br>
+<p align='right'>
+<ul>
+  <li>
+    <samp>
+      ✨Director of Event Logistics/Volunteers & Conference Content Sub-Committee Member✨<br>
+      &nbsp;&nbsp;<b>Organisation</b>: <a href="https://dddperth.com"><code>DDD Perth</code></a> 
+      <sub><i>- Australia's largest annual tech conference.</i></sub>
+    </samp>
+  </li>
+  <li>
+    <samp>
+      👨‍⚖️Code of Conduct Team Member👨‍⚖️<br>
+      &nbsp;&nbsp;<b>Organisation</b>: <a href="https://www.pythonwa.com/">Python WA</a>
+    </samp>
+  </li>
+  <li>
+    <samp>
+      🦘Founding Member & Membership Workgroup🦘<br>
+      &nbsp;&nbsp;<b>Organisation</b>: <a href="https://github.com/Python-Australia">Python Australia.</a>
+    </samp>
+  </li>
+  <li>
+    <samp>
+      🐍Oceanic Representative for Diversity & Inclusion🐍<br> 
+      &nbsp;&nbsp;<b>Organisation</b>: <a href="https://github.com/psf">Python Software Foundation</a>
+    </samp>
+  </li>
+  <li>
+    <samp>
+      💖Founder, Organiser & Mentor💖<br> 
+      &nbsp;&nbsp;<b>Organisation</b>: <a href="https://github.com/PyVersify">PyVersify</a>
+    </samp>
+  </li>
+</ul>
+</p>
+<br>
+<p align='left'>
+  <samp>I bring technical expertise and community leadership together to create meaningful change. My professional work includes the development of an adaptable bushfire alert system for rural communities with zero mobile coverage and creating accessibility tools for visually impaired programmers.</samp>
+</p>
+<br>
+<p align='left'>
+  <samp>
+    Please consider <a href="https://github.com/sponsors/Nathan-Bransby-NMT/">supporting</a> my work, so that I can continue to dedicate my time to giving back to the community<br><br>
+    I'm always open to new opportunities and eager to collaborate with like-minded individuals who share my passion for inclusive technology and community-driven innovation.
+    - Feel free to connect with me either via Email or LinkedIn. 🤝
+  </samp>
+</p>
+<br>
+
+<p align='right'>
+  <a href = "mailto:brnsb.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nathan-bransby" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
 </p>
 <br>
 <img src="./assets/svg/footer-wave.svg" width=1000px>
