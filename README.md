@@ -19,7 +19,7 @@
 </p>
 <hr>
 <br>
-<img src="./assets/svg/141193650.svg" width=200px align="left" alt="image" />
+<img src="./assets/svg/141193650.svg" width=200px align="left" alt="profile image" />
 <p align="center">
   &nbsp;&nbsp;
   <a href="https://github.com/Nathan-Bransby-NMT">
