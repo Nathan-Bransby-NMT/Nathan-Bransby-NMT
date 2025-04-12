@@ -62,7 +62,8 @@
     <tr>
       <td>
 	<samp>
-	🦘Membership Workgroup & Founding Member🦘<br><sub><b>Organisation</b>:</sub> <a href="https://github.com/Python-Australia">Python Australia.</a>
+	🦘Founding Member🦘<br><sub><b>Organisation</b>:</sub> 
+		<!--a href="https://github.com/Python-Australia"-->Python Australia.<!--/a-->
 	</samp>
       </td>
     </tr>
