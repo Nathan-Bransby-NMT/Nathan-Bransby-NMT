@@ -201,7 +201,10 @@
 <br>
 <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width="200%" align="left">
 <br>
+<details>
+<summary>
 <h2 align='right'>Github Statistics</h2>
+</summary>
 <table align='center'>
   <tr>
     <td>
@@ -220,11 +223,15 @@
 	  </td>
   </tr>
 </table>
+</details>
 <br>
 <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width="200%" align="left">
 <br>
 <div>
+<details>
+<summary>
   <h2>Recent Events</h2>
+</summary>
 	<h3 align="right"><samp>November 2024</samp></h3>
   <blockquote>
   <!--November 2024-->
@@ -555,6 +562,7 @@
       </tr>
     </table>
   </blockquote>
+</details>
   <br>
   <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width=200% align="center">
   <blockquote>
