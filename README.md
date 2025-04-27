@@ -224,6 +224,19 @@
 	  </td>
   </tr>
 </table>
+<br>
+<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width=200% align="center">
+<br>
+<blockquote>
+  <h3 align='center'>Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan-Bransby-NMT">
+</blockquote>
+<br>
+<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width=200% align="center">
+<blockquote>
+  <h3 allign='center'>Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nathan-Bransby-NMT&column=3&margin-w=15&margin-h=15&theme=radical">
+</blockquote>
 </details>
 <br>
 <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width="200%" align="left">
@@ -564,17 +577,4 @@
     </table>
   </blockquote>
 </details>
-  <br>
-  <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width=200% align="center">
-  <blockquote>
-    <h3 allign='center'>Trophies</h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=Nathan-Bransby-NMT&column=3&margin-w=15&margin-h=15&theme=radical">
-  </blockquote>
-  <br>
-  <img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width=200% align="center">
-  <br>
-  <blockquote>
-    <h3 align='center'>Activity</h3>
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan-Bransby-NMT">
-  </blockquote>
 </div>
