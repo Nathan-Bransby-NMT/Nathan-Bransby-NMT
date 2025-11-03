@@ -57,8 +57,9 @@
 				<samp>
 					&nbsp;&nbsp;<b>⪧ D&I Member for Oceania</b> – <a href='https://github.com/psf'>Python Software Foundation</a><br>
 					&nbsp;&nbsp;<b>⪧ Director & Event Organiser</b> – <a href='https://github.com/dddwa'>DDD Perth</a><br>
-					&nbsp;&nbsp;<b>⪧ Primary Software Engineer<b> – <a href='https://github.com/NLB-Software'>NLB Software</a><br>
-					&nbsp;&nbsp;<b>⪧ Board Member</b> – <a href='https://github.com/python-australia'>Python Australia</a><br>
+					&nbsp;&nbsp;<b>⪧ Primary Software Engineer</b> – <a href='https://github.com/NLB-Software'>NLB Software</a><br>
+					&nbsp;&nbsp;<b>⪧ Co-Founder/Organiser</b> – <a href='https://github.com/python-australia'>Python Australia</a><br>
+					&nbsp;&nbsp;<b>⪧ Associate Member</b> – <a href='https://github.com/Python-WA'>Python Association of Western Australia</a><br>
 					&nbsp;&nbsp;<b>⪧ Community Leader & Mentor</b> – <a href='https://github.com/PyVersify'>PyVersify</a><br>
 				</samp>
 			</td>
