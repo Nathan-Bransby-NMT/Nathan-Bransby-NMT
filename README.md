@@ -180,40 +180,75 @@
 
 <details>
 	<summary>
-	<h2 align='right'>Github Statistics</h2>
+	<h2 align='right'>Github Stats</h2>
 	</summary>
-	<table align='center'>
-	  <tr>
-	    <td>
-	      <a href="https://git.io/streak-stats">
-	      	<img src="https://streak-stats.demolab.com/?user=Nathan-Bransby-NMT&theme=neon" 
-		     		alt="GitHub Streak" 
-		     		style="max-width:350px; max-height:150"
-		     		align='right' 
-		     		width=370px 
+	<table align='center' style="table-layout: fixed;">
+		<tr>
+			<th>
+				<h3>Overall Performance</h3>
+			</th>
+		</tr>
+		<tr>
+			<td>
+		      	<a href="https://git.io/streak-stats">
+		      		<img src="https://streak-stats.demolab.com/?user=Nathan-Bransby-NMT&theme=neon" 
+			    		alt="GitHub Streak" 
+			    		style="max-width:100%;"
+			    		align='center' 
 					/>
-      	</a>
-  			<img src="https://github-readme-stats.vercel.app/api/?username=Nathan-Bransby-NMT&theme=neon&show_icons=true&count_private=true" 
-	     		style="max-width:350px; max-height:150"
-	     		align='right' 
-	     		width=370px
+	      		</a>
+	  			<img src="https://github-readme-stats.vercel.app/api/?username=Nathan-Bransby-NMT&theme=neon&show_icons=true&count_private=true" 
+		     		style="max-width:100%; max-height:100%;"
+		     	    align='right'
 				/>
-	  	</td>
-  	</tr>
+		  	</td>
+	  	</tr>
+		<tr>
+			<!--th>
+				<h3>GH Memberships &amp; Organizations</h3>
+			</th>
+		</tr>
+		<tr>
+			<table align='center' style="table-layout: fixed;">
+				<tr>
+					<td>
+						<img src="./assets/img/orgs/psf_logo.png" 
+							alt="Python Software Foundation"
+							style="border: 2px solid #000; border-radius: 15px; 
+								max-height: 40px; max-width: 40px"
+							align='left'
+						/>
+					</td>
+				</tr>
+				<tr>
+			    	<td>
+						<a src='https://img.shields.io/badge/github-repo-blue?logo=github'>Test</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<ul>
+							<li>
+								<a href='https://www.python.org/psf-landing/'>🌐<br>website.</a>
+							</li>
+							<li>
+							</li>
+						</ul>
+					</td>
+		</tr-->
+			</table>
+		</tr>
+		<tr>
+			<th>
+				<h3 align='center'>Commit Activity</h3>
+			</th>
+		</tr>
+		<tr>
+			<td>
+  				<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan-Bransby-NMT">
+			</td>
+		</tr>
 	</table>
-	<br>
-	<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width=200% align="center">
-	<br>
-	<blockquote>
-  	<h3 align='center'>Activity</h3>
-  	<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan-Bransby-NMT">
-	</blockquote>
-	<br>
-	<img src="./assets/svg/break.svg" alt="Decorated page break." width=1000px hight=10px min-width=200% align="center">
-	<blockquote>
-  	<h3 allign='center'>Trophies</h3>
-  	<img src="https://github-profile-trophy.vercel.app/?username=Nathan-Bransby-NMT&column=3&margin-w=15&margin-h=15&theme=radical">
-	</blockquote>
 </details>
 
 <br>
