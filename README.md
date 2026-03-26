@@ -225,91 +225,125 @@
 <div>
 	<details>
 		<summary>
-		  <h2>Recent Events</h2>
+		  <h2>Previous Events</h2>
 		</summary>
-		<h3 align="right"><samp>November 2024</samp></h3>
-  	<blockquote>
-	  	<!--November 2024-->
-	    <table style="table-layout: fixed;">
-		  	<tr>
-		    	<th><h4 align="center">Google DevFest 2024</h4></th>
-		  	</tr>
-		  	<tr>
-		    	<td>
-			  		<img src="./assets/img/Perth_DevFest24.png">
-					</td>
-	      </tr>
-		  	<tr>
-		    	<td>
-			  		<details>
+		<!-- 	[**TEMPLATE EVENT POST**]
+		<h3 align="right"><samp>[EVENT_MONTH] [EVENT_YEAR]</samp></h3>
+  		<blockquote>
+	    	<table style="table-layout: fixed;">
+				<tr><th><h4 align="center">[EVENT_TITLE] [EVENT_YEAR]</h4></th></tr>
+		  		<tr><td><img src="./assets/img/[BANNER_IMAGE].png"></td></tr>
+		  		<tr>
+		    		<td><details>
 			    		<summary>About Event</summary>
-							<blockquote>
-				  			<p>
-									Attended Google DevFest '24 in Perth, Western Australia.<br>
-									<br>
-				  				A one-day conference organised annually by the Google Developer Group (GDG) Perth, focused on community building and exploring Google's latest technologies.
-				  				<br>
-				  				<h4>Key-Topics</h4>
-				  				<ul>
-				    				<li>In-depth sessions on AI</li>
-				  					<li>Web Development with Google technologies</li>
-										<li>The latest cloud-based innovations</li>
-				  				</ul>
-				  				Find out <a href="https://gdg.community.dev/events/details/google-gdg-perth-presents-devfest-perth-ai-web-cloud-amp-navigating-your-career/">more</a> about this event.
-				  			</p>
-							</blockquote>
-			  		</details>
-					</td>
-		  	</tr>
+						<blockquote>
+					  		<p>[KEY_DESCRIPTION]<br><br>
+					  			<h4>Key-Topics</h4>
+					  			<ul>
+					    			<li>[KEY_TOPIC_LIST_ITEMS]</li>
+					  			</ul>
+					  			Find out <a href="https://[EVENT_URL_HERE]">more</a> about this event.
+							</p>
+						</blockquote>
+			  		</details></td>
+		  		</tr>
 			</table>
-			<p align="center">
-				<img src="./assets/svg/angles-down-solid.svg" width=20px>
-				<img src="./assets/svg/blank300.svg" width=100px style='padding:20px'>
-				<img src="./assets/svg/angles-down-solid.svg" width=30px>
-				<img src="./assets/svg/blank300.svg" width=100px style='padding:20px'>
-				<img src="./assets/svg/angles-down-solid.svg" width=20px>
-			</p>
+		-->
+		<!--March 2026-->
+		<h3 align="right"><samp>March 2026</samp></h3>
+  		<blockquote>
+	    	<table style="table-layout: fixed;">
+				<tr><th><h4 align="center">Team Captain — Djangonaut Space, Session 6</h4></th></tr>
+		  		<tr><td><img src="./assets/img/djangonaut-space_s6.png"></td></tr>
+		  		<tr>
+		    		<td><details>
+			    		<summary>About Program</summary>
+						<blockquote>
+					  		<p>Djangonaut Space is a free, 8 week mentoring initiative that supports people in becoming contributors to Django and the wider ecosystem. The program has a strong emphesis on being a welcoming, inclusive community and its strong focus on collaborative learning and sustainability.<br><br>It was an absolute privilege to serve as a Team Captain, working with Fabian Braun to support our mentees with their first contributions to Django CMS.</p>
+							<h4>About the Role</h4>
+							<p>As a Djangonaut Space Team Captain, I support a small, project-focused team in partnership with a Navigator. The emphasis is on people, process, and nurturing a healthy community culture, rather than providing only deep technical mentorship. This includes:</p>
+							<ul>
+  								<li>Hold regular 1:1 check‑ins with each Djangonaut to offer encouragement, emotional support, and a safe place to talk about challenges.</li>
+								<li>Coordinate with the Navigator or organizers to ensure program runs smoothly and that anyone struggling can get the support they need.</li>
+								<li>Encourage questions, celebrate small wins, and normalize learning at different paces.</li>
+								<li>Help Djangonauts set realistic weekly goals and reflect on their progress over the 8‑week program.</li>
+							</ul>
+							<p>I highly reccommend the Djangonaut Space program to anyone wanting to dip their toes into being an open-source maintainer/contributor or anyone looking to increase their involvement in the open-source community. A big thank you to the Djangonaut Space team, for making my experience with the program so easy by encouraging a safe and supportive community.</p>
+							<p>You can learn more about the program over at the Djangonaut Space <a href="https://djangonaut.space">website</a>.</p>
+						</blockquote>
+			  		</details></td>
+		  		</tr>
+			</table>
 			<br>
-    	<table style="table-layout: fixed;">
-	  		<tr>
-	    		<th><h4 align="center">DDD Perth 2024</h4></th>
-	  		</tr>
-	  		<tr>
-	    		<td>
-		  			<img src="./assets/svg/ddd-perth.svg">
-					</td>
-      	</tr>
-	  		<tr>
-	    		<td>
-		  			<details>
-		    			<summary>About Event</summary>
-							<blockquote>
-			  				<p>
-									Attended the 10th Anniversary of <a href="https://dddperth.com">DDD Perth</a>.<br>
-									<br>
-			  					DDD Perth 2024 marked a significant milestone as the conference celebrated its 10th anniversary, bringing Perth's largest community-run tech conference back to <a href="https://optusstadium.com.au">Optus Stadium</a> on Saturday, November 16th, 2024
-			  					<br>
-			  					<h4>Keynote Speaker</h4>
-			  					<p>
-			    					This years keynote speaker was <a href="https://www.linkedin.com/in/katjasrz/">Ekaterina Sirazitdinova</a>, a Senior Deep Learning Scientist at <a href="https://www.nvidia.com">NVIDIA</a>. Ekaterina delivered an amazing talk about the latest advances in multimodal generative AI, explaining the inner workings of their systems whilst exploring key concepts and techniques involved. This was a personal highlight of the day for me, with this being to debut appearance in Australia all the way from Munich, Germany, it was a great honour to connect with her and learn from one of the best minds advancing AI.
-			  					</p>
-			  					<h4>Other Highlights</h4>
-			  					<p>
-			  						Given the size of the event, there were definetly some clashes between talks that I wanted to see, which ment I had to make some tough choices on who to see. However that being said, here are some other personal highlights from the talks I was able to see:
-										<ul>
-				  						<li><b>Neuroscience Meets Cybersecurity</b>: Enhancing IT Operations Through Brain Science<br><sub>Presented by: <a href="https://www.linkedin.com/in/vannessavanbeek/">Vannessa Van Beek</a></sub></li>
-				  						<li><b>Containerized Developer Environments</b>: Helping Devs help Charities<br><sub>Presented by: <a href="https://www.linkedin.com/in/dylancto/">Dylan To</a> and <a href="https://www.linkedin.com/in/frinze-erin-lapuz/">Frinze Lapuz</a></sub></li>
-				  						<li><b>Overcoming Your Imposter Syndrome with GitHub Copilot</b><br><sub>Presented by: <a href="">Michelle Sandford</a></sub></li>
-										</ul>
-			  					</p>
-			  					Find out <a href="https://dddperth.com">more</a> about this event.
-			  				</p>
-							</blockquote>
-		  			</details>
-					</td>
-	  		</tr>
-			</table>
-  	</blockquote>
+			<!--November 2024-->
+			<h3 align="right"><samp>November 2024</samp></h3>
+  			<blockquote>
+	    		<table style="table-layout: fixed;">
+		  			<tr>
+		    			<th><h4 align="center">Google DevFest 2024</h4></th>
+		  			</tr>
+		  			<tr>
+		    			<td>
+			  				<img src="./assets/img/Perth_DevFest24.png">
+						</td>
+	      			</tr>
+		  			<tr>
+		    			<td>
+			  				<details>
+			    				<summary>About Event</summary>
+								<blockquote>
+				  					<p>Attended Google DevFest '24 in Perth, Western Australia.<br>
+										<br>
+				  						A one-day conference organised annually by the Google Developer Group (GDG) Perth, focused on community building and exploring Google's latest technologies.<br>
+				  						<h4>Key-Topics</h4>
+				  						<ul>
+				    						<li>In-depth sessions on AI</li>
+				  							<li>Web Development with Google technologies</li>
+											<li>The latest cloud-based innovations</li>
+				  						</ul>
+				  						Find out <a href="https://gdg.community.dev/events/details/google-gdg-perth-presents-devfest-perth-ai-web-cloud-amp-navigating-your-career/">more</a> about this event.
+				  					</p>
+								</blockquote>
+			  				</details>
+						</td>
+		  			</tr>
+				</table>
+				<br>
+    			<table style="table-layout: fixed;">
+	  			<tr>
+	    			<th><h4 align="center">DDD Perth 2024</h4></th>
+	  			</tr>
+	  			<tr>
+	    			<td><img src="./assets/svg/ddd-perth.svg"></td>
+      			</tr>
+	  			<tr>
+	    			<td>
+		  				<details>
+		    				<summary>About Event</summary>
+								<blockquote>
+			  						<p>Attended the 10th Anniversary of <a href="https://dddperth.com">DDD Perth</a>.<br>
+										<br>
+			  							DDD Perth 2024 marked a significant milestone as the conference celebrated its 10th anniversary, bringing Perth's largest community-run tech conference back to <a href="https://optusstadium.com.au">Optus Stadium</a> on Saturday, November 16th, 2024
+			  							<br>
+			  							<h4>Keynote Speaker</h4>
+			  							<p>This years keynote speaker was <a href="https://www.linkedin.com/in/katjasrz/">Ekaterina Sirazitdinova</a>, a Senior Deep Learning Scientist at <a href="https://www.nvidia.com">NVIDIA</a>. Ekaterina delivered an amazing talk about the latest advances in multimodal generative AI, explaining the inner workings of their systems whilst exploring key concepts and techniques involved. This was a personal highlight of the day for me, with this being to debut appearance in Australia all the way from Munich, Germany, it was a great honour to connect with her and learn from one of the best minds advancing AI.</p>
+			  							<h4>Other Highlights</h4>
+			  							<p>
+											Given the size of the event, there were definetly some clashes between talks that I wanted to see, which ment I had to make some tough choices on who to see. However that being said, here are some other personal highlights from the talks I was able to see:
+											<ul>
+				  								<li><b>Neuroscience Meets Cybersecurity</b>: Enhancing IT Operations Through Brain Science<br><sub>Presented by: <a href="https://www.linkedin.com/in/vannessavanbeek/">Vannessa Van Beek</a></sub></li>
+				  								<li><b>Containerized Developer Environments</b>: Helping Devs help Charities<br><sub>Presented by: <a href="https://www.linkedin.com/in/dylancto/">Dylan To</a> and <a href="https://www.linkedin.com/in/frinze-erin-lapuz/">Frinze Lapuz</a></sub></li>
+				  								<li><b>Overcoming Your Imposter Syndrome with GitHub Copilot</b><br><sub>Presented by: <a href="">Michelle Sandford</a></sub></li>
+											</ul>
+			  							</p>
+			  							Find out <a href="https://dddperth.com">more</a> about this event.
+			  						</p>
+								</blockquote>
+		  					</details>
+						</td>
+	  				</tr>
+				</table>
+  			</blockquote>
 		<br>
   	<!--October 2024-->
 		<h3 align='right'><samp>October 2024<samp></h3>
@@ -336,13 +370,6 @@
 					</td>
 				</tr>
 			</table>
-			<p align="center">
-				<img src="./assets/svg/angles-down-solid.svg" width=20px>
-				<img src="./assets/svg/blank300.svg" width=100px style='padding:20px'>
-				<img src="./assets/svg/angles-down-solid.svg" width=30px>
-				<img src="./assets/svg/blank300.svg" width=100px style='padding:20px'>
-				<img src="./assets/svg/angles-down-solid.svg" width=20px>
-			</p>
 			<br>
     	<table style="table-layout: fixed;" width:100%>
       	<tr>
