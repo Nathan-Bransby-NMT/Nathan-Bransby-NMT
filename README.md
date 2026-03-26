@@ -274,7 +274,104 @@
 			  		</details></td>
 		  		</tr>
 			</table>
-			<br>
+		</blockquote>
+		<br>
+		<!--December 2025-->
+		<h3 align="right"><samp>December 2025</samp></h3>
+  		<blockquote>
+	    	<table style="table-layout: fixed;">
+				<tr><th><h4 align="center">Infrastructure, Code of Conduct Committee & Program MC — PyLadiesCon 2025</h4></th></tr>
+		  		<tr><td><img src="./assets/img/pyladiescon_2025.png"></td></tr>
+		  		<tr>
+		    		<td>
+						<details>
+			    			<summary>About Event</summary>
+							<blockquote>
+					  			<p>
+									Info Coming Soon 👀<!--[KEY_DESCRIPTION]<br><br>
+					  				<h4>Key-Topics</h4>
+					  				<ul>
+					    				<li>[KEY_TOPIC_LIST_ITEMS]</li>
+					  				</ul>
+					  				Find out <a href="https://[EVENT_URL_HERE]">more</a> about this event.
+									-->
+								</p>
+							</blockquote>
+			  			</details>
+					</td>
+		  		</tr>
+			</table>
+		</blockquote>
+		<br>
+			<!--September 2025-->
+			<h3 align="right"><samp>September 2025</samp></h3>
+  		<blockquote>
+	    	<table style="table-layout: fixed;">
+				<tr><th><h4 align="center">Volunteer & Event Experience Director — DDD Perth 2025</h4></th></tr>
+		  		<tr><td><img src="./assets/img/ddd-perth_25.png"></td></tr>
+		  		<tr>
+		    		<td>
+						<details>
+			    			<summary>About Event</summary>
+							<blockquote>
+					  			<p>
+									I’m back again for DDD Perth 2025, and you know what they say 
+									— "if you can’t beat them, join them", which is exactly what I have done this year.<br><br>
+									DDD Perth is Australia's largest community‑run, inclusive, non‑profit conference. The event is ran by the local software community, for all roles in tech, designed to be a one‑day, approachable and affordable tech event for everyone. I couldn't pass up the oportunity to get involved, joining the DDD WA Inc. Board of Directors.<br><br>
+									As a Director, I worked with the other board members, coordinate a subcommittee and manage close to 40 volunteers throughout the day.
+									<h4>Keynotes & Talks</h4>
+				  					<p>The conference featured high‑profile keynotes alongside first‑time speakers, with a speaker pipeline shaped through blind community voting and committee curation to keep the line‑up diverse and relevant. Sponsors like VGW (Gold) and a broader group of platinum, digital, and community partners helped make the event possible, supporting everything from venue and production to scholarships and accessibility initiatives.</p>
+					  				Find out <a href="https://dddperth.com">more</a> about this event.
+								</p>
+							</blockquote>
+			  			</details>
+					</td>
+		  		</tr>
+			</table>
+		</blockquote>
+		<br>
+		<!--July 2025-->
+			<h3 align="right"><samp>July 2025</samp></h3>
+  		<blockquote>
+	    	<table style="table-layout: fixed;">
+				<tr><th><h4 align="center">EuroPython 2025</h4></th></tr>
+		  		<tr><td><img src="./assets/img/europython_2025.png"></td></tr>
+		  		<tr>
+		    		<td>
+						<details>
+			    			<summary>About Event</summary>
+							<blockquote>
+					  			<p>
+									Info Coming Soon 👀
+								</p>
+							</blockquote>
+			  			</details>
+					</td>
+		  		</tr>
+			</table>
+		</blockquote>
+		<br>
+		<!--December 2024-->
+			<h3 align="right"><samp>December 2024</samp></h3>
+  		<blockquote>
+	    	<table style="table-layout: fixed;">
+				<tr><th><h4 align="center">PyLadiesCon 2024</h4></th></tr>
+		  		<tr><td><img src="./assets/img/pyladiescon_2024.png"></td></tr>
+		  		<tr>
+		    		<td>
+						<details>
+			    			<summary>About Event</summary>
+							<blockquote>
+					  			<p>
+									Info Coming Soon 👀
+								</p>
+							</blockquote>
+			  			</details>
+					</td>
+		  		</tr>
+			</table>
+		</blockquote>
+		<br>
 			<!--November 2024-->
 			<h3 align="right"><samp>November 2024</samp></h3>
   			<blockquote>
